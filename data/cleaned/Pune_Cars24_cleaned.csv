@@ -1,0 +1,1433 @@
+Car Name,Company,Year of Manufacture,Distance Driven,Fuel Type,Gear Type,EMI,Price,Car Age,City
+Volkswagen Polo,Volkswagen,2012,95466,Petrol,Manual,20722,233000.0,14,Pune
+Volkswagen Polo,Volkswagen,2015,83337,CNG,Manual,17259,367000.0,11,Pune
+Renault Kwid,Renault,2022,30729,Petrol,Manual,5349,303000.0,4,Pune
+Renault Duster,Renault,2013,61904,Petrol,Manual,10356,220000.00000000003,13,Pune
+Honda Amaze,Honda,2014,64829,Petrol,Auto,10671,321000.0,12,Pune
+Honda Amaze,Honda,2013,83596,Diesel,Manual,23545,265000.0,13,Pune
+Maruti Grand Vitara,Maruti,2022,31545,Petrol,Auto,22687,1325000.0,4,Pune
+Hyundai Grand i10,Hyundai,2016,107079,CNG,Manual,9001,271000.0,10,Pune
+Renault Kwid,Renault,2020,44243,Petrol,Manual,6130,347000.0,6,Pune
+Volkswagen Jetta,Volkswagen,2014,111587,Petrol,Manual,10429,314000.0,12,Pune
+Audi Q3,Audi,2016,73408,Diesel,Auto,35667,1380000.0,10,Pune
+Maruti Swift Dzire,Maruti,2015,35160,Petrol,Manual,9480,360000.0,11,Pune
+Hyundai Elite i20,Hyundai,2018,53566,Petrol,Manual,7130,404000.0,8,Pune
+Volkswagen Polo,Volkswagen,2014,77051,Petrol,Auto,13615,409999.99999999994,12,Pune
+Toyota Innova Crysta,Toyota,2020,95785,Diesel,Auto,38097,2225000.0,6,Pune
+Toyota Innova Crysta,Toyota,2021,106004,Diesel,Auto,55443,2550000.0,5,Pune
+Hyundai Grand i10,Hyundai,2017,103882,Petrol,Manual,6785,305000.0,9,Pune
+MG GLOSTER,MG,2024,17351,Diesel,Auto,62497,3650000.0,2,Pune
+Maruti New Wagon-R,Maruti,2019,64868,Petrol,Auto,6910,391000.0,7,Pune
+Maruti Vitara Brezza,Maruti,2018,51093,Diesel,Auto,14143,723000.0,8,Pune
+Hyundai Elite i20,Hyundai,2018,92079,CNG,Manual,11802,531000.0,8,Pune
+Toyota Fortuner,Toyota,2023,13228,Diesel,Auto,65065,3800000.0,3,Pune
+Mercedes Benz E Class,Mercedes,2013,40546,Petrol,Auto,51269,1100000.0,13,Pune
+Maruti Vitara Brezza,Maruti,2019,86997,Diesel,Manual,13698,800000.0,7,Pune
+Maruti Celerio,Maruti,2014,63541,CNG,Auto,21756,245000.00000000003,12,Pune
+Tata Tiago,Tata,2023,50250,CNG,Manual,10208,578000.0,3,Pune
+Tata Safari,Tata,2022,19584,Diesel,Auto,23954,1399000.0,4,Pune
+Honda BR-V,Honda,2017,30564,Petrol,Auto,12190,624000.0,9,Pune
+Hyundai Elite i20,Hyundai,2016,64082,Petrol,Manual,6985,314000.0,10,Pune
+Tata TIAGO NRG,Tata,2021,37330,Petrol,Manual,7533,426999.99999999994,5,Pune
+Hyundai Elite i20,Hyundai,2019,67545,Petrol,Manual,7026,398000.0,7,Pune
+Maruti S PRESSO,Maruti,2019,26434,Petrol,Manual,5431,308000.0,7,Pune
+KIA SONET,KIA,2024,10933,Petrol,Auto,21831,1275000.0,2,Pune
+Honda Civic,Honda,2019,45045,Petrol,Auto,18150,1060000.0,7,Pune
+Tata ALTROZ,Tata,2020,66605,Petrol,Manual,9418,534000.0,6,Pune
+Maruti Ciaz,Maruti,2022,26728,Petrol,Manual,11292,640000.0,4,Pune
+Skoda Rapid,Skoda,2021,21907,Petrol,Manual,12192,691000.0,5,Pune
+Toyota Fortuner,Toyota,2023,56624,Diesel,Auto,85612,5000000.0,3,Pune
+Renault Duster,Renault,2019,57795,Petrol,Manual,8951,507000.0,7,Pune
+Hyundai Elite i20,Hyundai,2019,73512,Petrol,Manual,8929,505999.99999999994,7,Pune
+Hyundai Creta,Hyundai,2025,3210,Diesel,Auto,34245,2000000.0,1,Pune
+Jaguar XF,Jaguar,2015,48465,Diesel,Auto,45638,1394000.0,11,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2023,35759,CNG,Manual,10592,600000.0,3,Pune
+Maruti Swift Dzire,Maruti,2019,73276,CNG,Manual,9786,501000.0,7,Pune
+Hyundai i20 Active,Hyundai,2017,89767,Petrol,Manual,7234,370000.0,9,Pune
+Honda City,Honda,2018,73662,Petrol,Auto,13136,744000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2017,84524,CNG,Manual,7294,277000.0,9,Pune
+Mercedes Benz GLC CLASS,Mercedes,2022,44177,Diesel,Auto,70630,4125000.0,4,Pune
+Honda Jazz,Honda,2015,57633,Petrol,Manual,9758,371000.0,11,Pune
+Honda WR-V,Honda,2019,62030,Petrol,Manual,10116,573000.0,7,Pune
+Volvo V 40,Volvo,2015,48134,Diesel,Auto,45834,1400000.0,11,Pune
+Toyota Innova Crysta,Toyota,2022,134428,Diesel,Auto,53921,2480000.0,4,Pune
+Volkswagen Polo,Volkswagen,2014,124334,Petrol,Manual,7314,220000.00000000003,12,Pune
+Maruti S Cross,Maruti,2017,53301,Diesel,Manual,8787,395000.0,9,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2023,41081,CNG,Manual,11009,624000.0,3,Pune
+Honda Jazz,Honda,2019,106077,Petrol,Auto,9521,428000.0,7,Pune
+Hyundai Verna,Hyundai,2019,67423,Diesel,Manual,13869,810000.0,7,Pune
+Renault Kwid,Renault,2019,30503,Petrol,Manual,3813,216000.0,7,Pune
+Maruti Alto 800,Maruti,2013,77268,Petrol,Manual,6463,137000.0,13,Pune
+Hyundai Verna,Hyundai,2017,48413,Petrol,Manual,9189,470000.0,9,Pune
+Maruti Baleno,Maruti,2016,88321,CNG,Manual,13219,398000.0,10,Pune
+Tata NEXON,Tata,2017,29923,Petrol,Manual,9489,484999.99999999994,9,Pune
+Hyundai i20,Hyundai,2013,86274,Petrol,Manual,8520,181000.0,13,Pune
+MG ASTOR,MG,2022,36542,Petrol,Manual,11792,668000.0,4,Pune
+Hyundai VENUE,Hyundai,2023,43022,Petrol,Manual,14982,875000.0,3,Pune
+Maruti Swift Dzire,Maruti,2013,93343,CNG,Manual,14982,258000.0,13,Pune
+BMW Z4,BMW,2023,28878,Petrol,Auto,148965,8700000.0,3,Pune
+Ford New Figo,Ford,2016,84195,CNG,Manual,8370,252000.0,10,Pune
+Hyundai NEW SANTRO,Hyundai,2018,77563,CNG,Manual,7383,332000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2016,66463,Petrol,Auto,5388,242000.0,10,Pune
+Datsun Go Plus,Datsun,2015,60016,Petrol,Manual,4766,181000.0,11,Pune
+Honda Amaze,Honda,2022,50213,Petrol,Auto,11298,640000.0,4,Pune
+Volkswagen Ameo,Volkswagen,2017,84816,Petrol,Manual,6788,347000.0,9,Pune
+Honda City,Honda,2014,105375,Petrol,Manual,10130,305000.0,12,Pune
+Hyundai Elite i20,Hyundai,2018,123460,Petrol,Manual,9053,407000.0,8,Pune
+Hyundai NEW SANTRO,Hyundai,2019,27279,Petrol,Auto,6312,358000.0,7,Pune
+Tata NEXON,Tata,2021,22944,Petrol,Auto,14116,824000.0,5,Pune
+Toyota Glanza,Toyota,2023,46540,CNG,Manual,13596,770000.0,3,Pune
+Datsun Redi Go,Datsun,2018,104773,Petrol,Manual,3203,144000.0,8,Pune
+Tata Tiago,Tata,2016,82945,Petrol,Manual,5828,262000.0,10,Pune
+Skoda Karoq,Skoda,2020,77141,Petrol,Auto,24639,1439000.0,6,Pune
+Hyundai Tucson,Hyundai,2019,78927,Petrol,Auto,15364,897000.0000000001,7,Pune
+Maruti Swift,Maruti,2020,31449,Petrol,Auto,8473,480000.0,6,Pune
+Maruti Swift,Maruti,2013,35570,Petrol,Manual,12686,269000.0,13,Pune
+Maruti Alto,Maruti,2020,54362,CNG,Manual,4721,267000.0,6,Pune
+Toyota Etios,Toyota,2014,81689,Petrol,Manual,7839,236000.0,12,Pune
+Tata Harrier,Tata,2020,96136,Diesel,Auto,19999,1168000.0,6,Pune
+Maruti Celerio,Maruti,2023,42976,Petrol,Manual,8322,471000.0,3,Pune
+Hyundai Xcent,Hyundai,2014,103307,Petrol,Manual,8769,264000.0,12,Pune
+Maruti Swift,Maruti,2017,40784,Petrol,Manual,7155,366000.0,9,Pune
+Datsun Redi Go,Datsun,2018,97153,Petrol,Manual,2572,146000.0,8,Pune
+Renault Kwid,Renault,2016,80826,Petrol,Manual,3848,173000.0,10,Pune
+Maruti Celerio,Maruti,2015,33180,Petrol,Manual,6610,250999.99999999997,11,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2021,78486,CNG,Manual,8118,459999.99999999994,5,Pune
+Datsun Go,Datsun,2014,56582,Petrol,Manual,4984,150000.0,12,Pune
+Mercedes Benz E Class,Mercedes,2017,113007,Diesel,Auto,54356,2500000.0,9,Pune
+Honda Amaze,Honda,2014,139533,Petrol,Manual,7008,211000.0,12,Pune
+Maruti FRONX,Maruti,2023,46348,Petrol,Auto,12198,691000.0,3,Pune
+Volkswagen Polo,Volkswagen,2017,59524,Petrol,Auto,9455,484000.0,9,Pune
+Tata Tiago,Tata,2018,147128,Diesel,Manual,7007,315000.0,8,Pune
+Tata TIGOR,Tata,2018,52282,Petrol,Manual,6214,352000.0,8,Pune
+Jeep Compass,Jeep,2019,88507,Diesel,Manual,15153,885000.0,7,Pune
+Renault Kwid,Renault,2016,66090,Petrol,Manual,3648,164000.0,10,Pune
+Mahindra XUV700,Mahindra,2024,33869,Diesel,Auto,34245,2000000.0,2,Pune
+Tata NEXON,Tata,2024,22840,Diesel,Manual,15102,882000.0,2,Pune
+Tata ALTROZ,Tata,2020,18468,Petrol,Manual,9586,543000.0,6,Pune
+Maruti Celerio,Maruti,2015,36276,Petrol,Auto,6636,252000.0,11,Pune
+Hyundai Verna,Hyundai,2016,31268,Petrol,Manual,9098,409000.0,10,Pune
+Maruti Vitara Brezza,Maruti,2017,79525,Diesel,Manual,13792,620000.0,9,Pune
+Maruti Alto 800,Maruti,2016,109996,Petrol,Manual,4160,187000.0,10,Pune
+Tata NEXON,Tata,2019,29568,Petrol,Auto,8597,487000.0,7,Pune
+Maruti S PRESSO,Maruti,2020,54626,Petrol,Manual,4943,280000.0,6,Pune
+Renault Kwid,Renault,2017,31480,Petrol,Manual,3773,193000.0,9,Pune
+Maruti Baleno,Maruti,2017,68491,Petrol,Manual,8332,426000.0,9,Pune
+Maruti S Cross,Maruti,2021,31115,Petrol,Manual,11209,635000.0,5,Pune
+Tata PUNCH,Tata,2023,23071,Petrol,Manual,9940,563000.0,3,Pune
+Maruti Alto K10,Maruti,2019,30434,Petrol,Manual,4542,256999.99999999997,7,Pune
+Renault Kwid,Renault,2016,84648,CNG,Manual,6676,200999.99999999997,10,Pune
+Hyundai Grand i10,Hyundai,2015,71774,Petrol,Manual,7189,273000.0,11,Pune
+Renault TRIBER,Renault,2022,52048,Petrol,Manual,7421,420000.0,4,Pune
+Hyundai Eon,Hyundai,2016,69776,Petrol,Manual,3759,169000.0,10,Pune
+KIA SONET,KIA,2023,28540,Petrol,Manual,12445,705000.0,3,Pune
+Hyundai AURA,Hyundai,2022,27951,CNG,Manual,9781,554000.0,4,Pune
+Tata Tiago,Tata,2018,49107,Petrol,Manual,5313,301000.0,8,Pune
+Maruti Swift,Maruti,2016,98776,Petrol,Manual,6380,287000.0,10,Pune
+Skoda Rapid,Skoda,2017,119944,Petrol,Manual,7363,331000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2015,95668,CNG,Manual,9685,206000.0,11,Pune
+Maruti Dzire,Maruti,2019,42205,Petrol,Manual,7308,413999.99999999994,7,Pune
+Hyundai i10,Hyundai,2012,45212,Petrol,Auto,16437,185000.0,14,Pune
+KIA SONET,KIA,2021,47982,Petrol,Manual,12180,690000.0,5,Pune
+Tata NEXON,Tata,2019,94904,CNG,Auto,10557,540000.0,7,Pune
+Skoda Rapid,Skoda,2020,78364,Petrol,Manual,8857,501999.99999999994,6,Pune
+Honda City,Honda,2015,34955,Petrol,Manual,9428,358000.0,11,Pune
+Hyundai i20 Active,Hyundai,2015,100416,Petrol,Manual,8716,331000.0,11,Pune
+Hyundai Verna,Hyundai,2013,76331,Petrol,Manual,14522,308000.0,13,Pune
+Maruti Ciaz,Maruti,2017,46803,CNG,Auto,11613,441000.0,9,Pune
+Volkswagen Ameo,Volkswagen,2017,95740,Petrol,Manual,6569,336000.0,9,Pune
+Fiat Punto EVO,Fiat,2014,79687,Diesel,Manual,8633,183000.0,12,Pune
+Renault Kwid,Renault,2016,85448,Petrol,Manual,4087,184000.0,10,Pune
+Maruti Alto K10,Maruti,2023,38611,Petrol,Manual,6064,344000.0,3,Pune
+Renault Kiger,Renault,2021,39237,Petrol,Auto,8863,501999.99999999994,5,Pune
+KIA SELTOS,KIA,2020,74418,Diesel,Manual,14708,859000.0,6,Pune
+Volkswagen Vento,Volkswagen,2016,74659,Petrol,Manual,7741,348000.0,10,Pune
+Honda Jazz,Honda,2018,55117,Petrol,Manual,6574,372000.0,8,Pune
+Hyundai i10,Hyundai,2013,104045,Petrol,Manual,7955,169000.0,13,Pune
+Skoda SLAVIA,Skoda,2023,16818,Petrol,Auto,19485,1138000.0,3,Pune
+Maruti Swift,Maruti,2014,77393,Petrol,Manual,9151,275000.0,12,Pune
+Hyundai i10,Hyundai,2013,89603,CNG,Auto,9151,176000.0,13,Pune
+KIA SELTOS,KIA,2020,69197,Petrol,Auto,19332,1129000.0,6,Pune
+Hyundai NEW SANTRO,Hyundai,2021,21067,Petrol,Auto,7326,415000.00000000006,5,Pune
+Hyundai Elite i20,Hyundai,2018,47233,Petrol,Auto,8288,470000.0,8,Pune
+Renault Kwid,Renault,2015,38247,Petrol,Manual,4740,180000.0,11,Pune
+Hyundai Elite i20,Hyundai,2016,59057,Petrol,Manual,8876,399000.0,10,Pune
+Tata ALTROZ,Tata,2022,22527,Petrol,Manual,10846,614000.0,4,Pune
+Maruti New Wagon-R,Maruti,2022,64307,Petrol,Manual,7061,400000.0,4,Pune
+Maruti Celerio X,Maruti,2018,13586,Petrol,Auto,6606,374000.0,8,Pune
+Volkswagen Polo,Volkswagen,2015,34158,Petrol,Manual,8901,338000.0,11,Pune
+Hyundai VENUE,Hyundai,2023,89108,Petrol,Manual,12110,686000.0,3,Pune
+Toyota URBAN CRUISER,Toyota,2022,44495,Petrol,Manual,13287,753000.0,4,Pune
+Renault Kwid,Renault,2016,26334,Petrol,Manual,4805,216000.0,10,Pune
+Mahindra XUV700,Mahindra,2021,83425,Petrol,Manual,18033,1053000.0,5,Pune
+Tata TIGOR,Tata,2018,49377,CNG,Manual,9547,429000.0,8,Pune
+Maruti Swift Dzire,Maruti,2012,65844,Petrol,Manual,18747,211000.0,14,Pune
+Honda City,Honda,2017,66841,Petrol,Auto,11821,605000.0,9,Pune
+Hyundai Elite i20,Hyundai,2019,46293,Petrol,Manual,8562,484999.99999999994,7,Pune
+Hyundai NEW SANTRO,Hyundai,2019,50094,CNG,Manual,6569,336000.0,7,Pune
+Hyundai NEW I20,Hyundai,2021,149924,Petrol,Manual,11233,505000.0,5,Pune
+Maruti Wagon R 1.0,Maruti,2013,37495,Petrol,Manual,10712,227999.99999999997,13,Pune
+Tata TIGOR,Tata,2021,32695,Petrol,Manual,8615,488000.0,5,Pune
+Maruti IGNIS,Maruti,2018,35480,Petrol,Manual,5896,334000.0,8,Pune
+Maruti Baleno,Maruti,2024,5570,Petrol,Auto,13659,774000.0,2,Pune
+KIA SONET,KIA,2021,40429,Petrol,Manual,11598,657000.0,5,Pune
+Tata Tiago,Tata,2022,21841,Petrol,Manual,7997,453000.0,4,Pune
+Hyundai EXTER,Hyundai,2025,3670,Petrol,Manual,12909,731000.0,1,Pune
+Hyundai Creta,Hyundai,2020,43651,Petrol,Manual,15846,925000.0,6,Pune
+Tata NEXON,Tata,2018,55956,Petrol,Manual,8544,484000.0,8,Pune
+Maruti Swift,Maruti,2021,27489,Petrol,Manual,10472,593000.0,5,Pune
+Tata TIGOR,Tata,2018,67411,Petrol,Manual,6729,381000.0,8,Pune
+Hyundai VENUE,Hyundai,2021,55249,Petrol,Manual,11389,645000.0,5,Pune
+Maruti Alto 800,Maruti,2014,63944,CNG,Manual,16720,188000.0,12,Pune
+Mahindra Thar,Mahindra,2023,20256,Diesel,Manual,21728,1269000.0,3,Pune
+Hyundai VENUE,Hyundai,2023,20814,Petrol,Auto,15444,902000.0,3,Pune
+MG HECTOR,MG,2021,65599,Petrol,Auto,18441,1077000.0,5,Pune
+Tata Harrier,Tata,2019,40171,Diesel,Manual,16694,975000.0,7,Pune
+Honda ELEVATE,Honda,2024,5490,Petrol,Auto,26369,1540000.0,2,Pune
+MG ASTOR,MG,2022,52428,Petrol,Manual,12904,731000.0,4,Pune
+Hyundai Elite i20,Hyundai,2018,70908,Petrol,Auto,8203,465000.00000000006,8,Pune
+Volkswagen Polo,Volkswagen,2017,61917,Petrol,Auto,9013,461000.00000000006,9,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2020,53521,Petrol,Auto,8101,459000.0,6,Pune
+Jeep Compass,Jeep,2018,98806,Diesel,Manual,14076,720000.0,8,Pune
+Mahindra XUV300,Mahindra,2023,95027,Diesel,Manual,12745,722000.0,3,Pune
+Maruti Ciaz,Maruti,2016,53859,Petrol,Manual,10361,466000.0,10,Pune
+Hyundai Creta,Hyundai,2019,85369,Petrol,Auto,13999,793000.0,7,Pune
+Hyundai Elite i20,Hyundai,2016,71856,Petrol,Manual,9888,444000.00000000006,10,Pune
+Maruti Celerio,Maruti,2014,79265,Petrol,Manual,7374,222000.00000000003,12,Pune
+Hyundai Grand i10,Hyundai,2016,44541,Petrol,Manual,6295,283000.0,10,Pune
+Honda Jazz,Honda,2017,78115,Petrol,Auto,6588,337000.0,9,Pune
+Ford FREESTYLE,Ford,2021,56744,Diesel,Manual,10052,569000.0,5,Pune
+Maruti Ciaz,Maruti,2018,81188,Diesel,Manual,11650,596000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2018,27836,Petrol,Manual,5190,294000.0,8,Pune
+Maruti Ciaz,Maruti,2017,60478,Diesel,Manual,12101,544000.0,9,Pune
+Hyundai Grand i10,Hyundai,2019,68723,CNG,Manual,7845,401000.0,7,Pune
+Maruti Baleno,Maruti,2017,84169,Petrol,Auto,7488,383000.0,9,Pune
+Hyundai i10,Hyundai,2014,99114,CNG,Manual,21501,242000.0,12,Pune
+Maruti Swift,Maruti,2019,105798,Petrol,Manual,10651,479000.0,7,Pune
+Hyundai i20,Hyundai,2013,68998,Petrol,Manual,12070,256000.0,13,Pune
+Hyundai i20,Hyundai,2012,30682,Petrol,Manual,18658,210000.0,14,Pune
+Maruti Wagon R 1.0,Maruti,2013,53988,Petrol,Manual,11167,237000.0,13,Pune
+Volkswagen Polo,Volkswagen,2015,138864,Petrol,Auto,9172,348000.0,11,Pune
+Renault Kiger,Renault,2022,40096,Petrol,Manual,9709,550000.0,4,Pune
+Renault Kwid,Renault,2017,78922,Petrol,Manual,4018,206000.0,9,Pune
+Maruti Alto K10,Maruti,2013,55401,Petrol,Manual,8248,175000.0,13,Pune
+Maruti Alto 800,Maruti,2015,79198,Petrol,Manual,4550,173000.0,11,Pune
+Honda City,Honda,2015,65266,Petrol,Manual,9507,361000.0,11,Pune
+Tata TIGOR,Tata,2017,100517,Petrol,Manual,7697,346000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2012,97754,Petrol,Manual,15637,176000.0,14,Pune
+Skoda Rapid,Skoda,2017,75781,Petrol,Manual,7226,370000.0,9,Pune
+Maruti Alto K10,Maruti,2015,69553,Petrol,Auto,6057,229999.99999999997,11,Pune
+Maruti New Wagon-R,Maruti,2021,63246,CNG,Manual,8122,459999.99999999994,5,Pune
+Maruti Alto 800,Maruti,2013,50210,Petrol,Manual,6962,148000.0,13,Pune
+Maruti Alto 800,Maruti,2014,25209,Petrol,Manual,5580,168000.0,12,Pune
+Tata Tiago,Tata,2018,62656,Petrol,Manual,5508,312000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2013,83871,Petrol,Manual,8717,185000.0,13,Pune
+Hyundai Grand i10,Hyundai,2015,42243,Petrol,Manual,8166,310000.0,11,Pune
+Hyundai VENUE,Hyundai,2021,39267,Petrol,Manual,11939,676000.0,5,Pune
+Maruti Celerio,Maruti,2018,67855,CNG,Manual,6963,313000.0,8,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2021,25726,Petrol,Auto,9993,566000.0,5,Pune
+Tata PUNCH,Tata,2023,29209,Petrol,Auto,11825,670000.0,3,Pune
+Hyundai i10,Hyundai,2014,75832,Petrol,Manual,6603,199000.0,12,Pune
+Honda City,Honda,2016,66621,Petrol,Manual,9721,437000.0,10,Pune
+Renault Kwid,Renault,2021,14515,Petrol,Manual,5614,318000.0,5,Pune
+Maruti Celerio,Maruti,2018,58748,Petrol,Auto,5967,338000.0,8,Pune
+Maruti Ciaz,Maruti,2016,78023,Petrol,Manual,8408,378000.0,10,Pune
+Maruti Wagon R 1.0,Maruti,2016,111583,Petrol,Auto,5072,227999.99999999997,10,Pune
+Maruti Baleno,Maruti,2017,97724,Petrol,Manual,7898,404000.0,9,Pune
+Tata Tiago,Tata,2020,11848,Petrol,Auto,7837,444000.00000000006,6,Pune
+Maruti Baleno,Maruti,2021,28741,Petrol,Manual,10359,587000.0,5,Pune
+Renault Kwid,Renault,2016,8405,Petrol,Manual,5202,234000.0,10,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2021,41176,Petrol,Manual,9444,535000.0,5,Pune
+Hyundai i10,Hyundai,2013,119983,Petrol,Manual,7861,167000.0,13,Pune
+Tata TIGOR,Tata,2019,49058,CNG,Auto,10323,528000.0,7,Pune
+Maruti IGNIS,Maruti,2018,37416,Petrol,Auto,6851,388000.0,8,Pune
+Tata Tiago,Tata,2022,82167,CNG,Manual,7803,442000.0,4,Pune
+Mahindra TUV300,Mahindra,2016,66861,Diesel,Manual,12337,468000.0,10,Pune
+Maruti Ciaz,Maruti,2016,53124,Diesel,Manual,14010,532000.0,10,Pune
+Tata TIGOR,Tata,2017,116950,Petrol,Manual,7430,334000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2013,64513,Petrol,Manual,9462,200999.99999999997,13,Pune
+Maruti Celerio,Maruti,2015,68945,Petrol,Auto,8904,338000.0,11,Pune
+Volkswagen Vento,Volkswagen,2014,31816,Petrol,Auto,10778,325000.0,12,Pune
+Hyundai NEW SANTRO,Hyundai,2019,100156,CNG,Manual,6703,301000.0,7,Pune
+Hyundai NEW SANTRO,Hyundai,2019,107083,CNG,Manual,8119,365000.0,7,Pune
+Datsun Redi Go,Datsun,2018,43373,Petrol,Manual,3068,174000.0,8,Pune
+Volkswagen TAIGUN,Volkswagen,2023,28799,Petrol,Auto,20824,1216000.0,3,Pune
+Honda Brio,Honda,2013,80237,Petrol,Manual,9239,196000.0,13,Pune
+KIA SONET,KIA,2022,65187,Diesel,Manual,14751,861999.9999999999,4,Pune
+Skoda KUSHAQ,Skoda,2022,49545,Petrol,Manual,14742,861000.0,4,Pune
+Tata NEXON,Tata,2020,48030,Diesel,Manual,13097,742000.0,6,Pune
+Maruti Wagon R 1.0,Maruti,2018,57961,CNG,Manual,7519,338000.0,8,Pune
+Maruti Celerio,Maruti,2022,31411,Petrol,Manual,7255,411000.00000000006,4,Pune
+Hyundai NEW I20 N LINE,Hyundai,2021,52885,Petrol,Auto,13855,785000.0,5,Pune
+Tata NEXON,Tata,2023,24938,Petrol,Manual,13852,809000.0,3,Pune
+Tata TIGOR,Tata,2018,74443,Petrol,Manual,5384,305000.0,8,Pune
+Renault Kwid,Renault,2018,41202,Petrol,Manual,4590,260000.0,8,Pune
+Hyundai Grand i10,Hyundai,2017,95064,Petrol,Manual,7234,370000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2015,64833,Petrol,Manual,6902,262000.0,11,Pune
+Maruti Wagon R 1.0,Maruti,2012,64643,CNG,Manual,6902,202000.0,14,Pune
+Honda City,Honda,2016,44977,Petrol,Manual,8809,396000.0,10,Pune
+Renault Kwid,Renault,2021,28242,Petrol,Auto,6408,363000.0,5,Pune
+Hyundai NEW SANTRO,Hyundai,2019,72970,CNG,Manual,6549,335000.0,7,Pune
+Toyota YARIS,Toyota,2018,74673,Petrol,Auto,8826,500000.0,8,Pune
+Hyundai Grand i10,Hyundai,2015,45424,Petrol,Manual,8774,333000.0,11,Pune
+Hyundai i20,Hyundai,2013,81185,CNG,Manual,8774,260000.0,13,Pune
+Maruti Ritz,Maruti,2013,57961,Petrol,Manual,10070,214000.0,13,Pune
+Maruti Ertiga,Maruti,2014,47925,CNG,Manual,44016,495000.0,12,Pune
+Hyundai Grand i10,Hyundai,2015,109211,Petrol,Manual,7299,277000.0,11,Pune
+Maruti Wagon R 1.0,Maruti,2016,56549,CNG,Manual,10908,328000.0,10,Pune
+Honda Brio,Honda,2015,106275,Petrol,Auto,8163,310000.0,11,Pune
+Maruti Alto 800,Maruti,2015,57992,Petrol,Manual,5419,206000.0,11,Pune
+Hyundai AURA,Hyundai,2023,56354,CNG,Manual,10999,623000.0,3,Pune
+Maruti Swift,Maruti,2022,14898,Petrol,Auto,10844,614000.0,4,Pune
+Maruti Zen Estilo,Maruti,2013,107119,CNG,Manual,10844,146000.0,13,Pune
+Tata NEXON,Tata,2018,68843,Diesel,Manual,11437,585000.0,8,Pune
+Honda City,Honda,2016,85195,Petrol,Manual,7007,315000.0,10,Pune
+Maruti Wagon R 1.0,Maruti,2013,93879,Petrol,Manual,7966,169000.0,13,Pune
+Maruti Celerio,Maruti,2016,79244,Petrol,Manual,6228,280000.0,10,Pune
+Maruti Alto K10,Maruti,2016,77388,Petrol,Manual,4760,214000.0,10,Pune
+Ford Ecosport,Ford,2013,129718,Diesel,Manual,31008,349000.0,13,Pune
+Hyundai EXTER,Hyundai,2023,20275,Petrol,Auto,12753,722000.0,3,Pune
+Maruti Alto K10,Maruti,2016,73671,Petrol,Auto,5976,269000.0,10,Pune
+Volkswagen Ameo,Volkswagen,2016,59833,Petrol,Manual,8159,367000.0,10,Pune
+Tata TIGOR,Tata,2022,39569,CNG,Manual,10016,567000.0,4,Pune
+Volkswagen Polo,Volkswagen,2015,123522,Petrol,Auto,10314,392000.0,11,Pune
+Tata Tiago,Tata,2019,33480,Petrol,Auto,8473,480000.0,7,Pune
+Maruti Celerio,Maruti,2016,92909,Petrol,Auto,6811,306000.0,10,Pune
+Maruti Baleno,Maruti,2018,90486,Diesel,Manual,11802,604000.0,8,Pune
+Tata NEXON,Tata,2022,58990,Diesel,Auto,13715,801000.0,4,Pune
+Maruti Swift,Maruti,2013,70013,Petrol,Manual,14357,305000.0,13,Pune
+Hyundai i10,Hyundai,2012,117801,CNG,Auto,14357,166000.0,14,Pune
+Tata Tiago,Tata,2018,37593,Petrol,Auto,7648,433000.0,8,Pune
+Maruti Celerio,Maruti,2022,22924,Petrol,Auto,8707,493000.0,4,Pune
+Honda City,Honda,2015,90156,CNG,Manual,17605,374000.0,11,Pune
+Hyundai Xcent,Hyundai,2014,64985,Petrol,Manual,9474,285000.0,12,Pune
+Tata NEXON,Tata,2021,55708,Petrol,Auto,14084,798000.0,5,Pune
+Toyota Glanza,Toyota,2020,70840,Petrol,Auto,10337,586000.0,6,Pune
+Nissan Micra,Nissan,2013,61301,Petrol,Auto,10394,221000.0,13,Pune
+Volkswagen TAIGUN,Volkswagen,2022,76808,Petrol,Manual,17726,1035000.0,4,Pune
+Maruti Wagon R 1.0,Maruti,2015,82833,CNG,Manual,12342,262000.0,11,Pune
+Volkswagen Jetta,Volkswagen,2015,135517,Diesel,Auto,18268,550000.0,11,Pune
+Volkswagen Ameo,Volkswagen,2017,36026,Petrol,Manual,7944,405999.99999999994,9,Pune
+Honda Jazz,Honda,2016,86443,Petrol,Auto,9344,420000.0,10,Pune
+Renault Duster,Renault,2017,75760,Diesel,Auto,11488,516000.0,9,Pune
+Tata Tiago,Tata,2016,36254,Petrol,Manual,7162,322000.0,10,Pune
+Hyundai Elite i20,Hyundai,2016,58206,Petrol,Manual,9188,413000.0,10,Pune
+Mahindra XUV300,Mahindra,2024,29360,Petrol,Manual,14231,831000.0,2,Pune
+Toyota Urban Cruiser Taisor,Toyota,2024,16743,Petrol,Auto,18835,1100000.0,2,Pune
+Renault Kwid,Renault,2019,93218,Petrol,Manual,4655,264000.0,7,Pune
+Maruti XL6,Maruti,2022,27960,Petrol,Auto,17431,1018000.0,4,Pune
+Honda WR-V,Honda,2019,50425,Petrol,Manual,10119,573000.0,7,Pune
+Hyundai Grand i10,Hyundai,2015,59070,Petrol,Auto,8954,340000.0,11,Pune
+Honda Amaze,Honda,2021,38422,Petrol,Auto,11504,652000.0,5,Pune
+Maruti Baleno,Maruti,2020,46396,Petrol,Manual,8826,500000.0,6,Pune
+Honda City,Honda,2015,120942,Petrol,Manual,9638,366000.0,11,Pune
+Honda Amaze,Honda,2019,56524,CNG,Manual,10828,554000.0,7,Pune
+Maruti Celerio,Maruti,2022,38810,CNG,Manual,8755,496000.0,4,Pune
+Maruti Baleno,Maruti,2018,46954,Petrol,Manual,7896,447000.0,8,Pune
+Tata ALTROZ,Tata,2021,51807,Diesel,Manual,12710,720000.0,5,Pune
+Maruti Swift,Maruti,2015,112676,Petrol,Manual,10077,383000.0,11,Pune
+Hyundai Grand i10,Hyundai,2019,71622,Petrol,Manual,6355,360000.0,7,Pune
+Tata Tiago,Tata,2018,54381,Petrol,Manual,6173,350000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2018,42943,Petrol,Manual,5695,323000.0,8,Pune
+Tata PUNCH,Tata,2024,10180,Petrol,Auto,13501,765000.0,2,Pune
+Maruti Ciaz,Maruti,2016,84709,Petrol,Auto,9941,447000.0,10,Pune
+Maruti Celerio,Maruti,2022,84281,CNG,Manual,7873,446000.0,4,Pune
+Renault Kwid,Renault,2017,86070,Petrol,Auto,5200,266000.0,9,Pune
+Tata Tiago,Tata,2016,109669,Petrol,Manual,6602,297000.0,10,Pune
+Ford Ecosport,Ford,2017,60554,Petrol,Manual,8961,458000.0,9,Pune
+Renault Duster,Renault,2019,118148,Diesel,Manual,11345,509999.99999999994,7,Pune
+Maruti Celerio,Maruti,2018,94095,CNG,Manual,8185,368000.0,8,Pune
+Tata Tiago,Tata,2018,145004,Petrol,Auto,7407,333000.0,8,Pune
+Honda Jazz,Honda,2016,88462,Petrol,Manual,8388,377000.0,10,Pune
+Renault Kwid,Renault,2018,76339,Petrol,Auto,5487,311000.0,8,Pune
+Maruti Baleno,Maruti,2018,81912,Petrol,Manual,7767,440000.00000000006,8,Pune
+Volkswagen Vento,Volkswagen,2014,98542,Petrol,Auto,10186,307000.0,12,Pune
+Hyundai Grand i10,Hyundai,2015,96881,Petrol,Manual,8434,320000.0,11,Pune
+Hyundai Elite i20,Hyundai,2016,44861,Petrol,Manual,9654,434000.0,10,Pune
+Honda City,Honda,2015,105718,Petrol,Auto,10692,405999.99999999994,11,Pune
+Renault Kwid,Renault,2021,34062,Petrol,Auto,6479,367000.0,5,Pune
+Maruti Celerio,Maruti,2018,69161,Petrol,Auto,6419,364000.0,8,Pune
+Hyundai Grand i10,Hyundai,2015,82447,CNG,Manual,14122,300000.0,11,Pune
+Hyundai NEW SANTRO,Hyundai,2021,89524,Petrol,Manual,7414,420000.0,5,Pune
+Hyundai NEW SANTRO,Hyundai,2022,28381,CNG,Manual,7732,438000.0,4,Pune
+Hyundai Grand i10,Hyundai,2019,9788,Petrol,Manual,8372,474000.0,7,Pune
+Maruti Ciaz,Maruti,2022,22213,Petrol,Manual,12202,691000.0,4,Pune
+Hyundai i10,Hyundai,2013,27481,Petrol,Manual,10121,215000.0,13,Pune
+Hyundai Elite i20,Hyundai,2017,34864,Petrol,Manual,7683,393000.0,9,Pune
+Audi Q3,Audi,2023,28743,Petrol,Auto,68490,4000000.0,3,Pune
+Hyundai NEW SANTRO,Hyundai,2019,134769,CNG,Manual,6851,308000.0,7,Pune
+Maruti Alto 800,Maruti,2016,38372,Petrol,Manual,5125,229999.99999999997,10,Pune
+Hyundai Grand i10,Hyundai,2015,124952,Petrol,Manual,7276,276000.0,11,Pune
+Maruti Wagon R 1.0,Maruti,2016,49646,Petrol,Auto,7461,335000.0,10,Pune
+Toyota Etios,Toyota,2014,115924,Petrol,Manual,8210,247000.00000000003,12,Pune
+Hyundai NEW SANTRO,Hyundai,2020,44345,CNG,Manual,7026,398000.0,6,Pune
+Honda City,Honda,2015,65375,CNG,Auto,23546,500000.0,11,Pune
+Maruti Alto 800,Maruti,2018,49512,CNG,Manual,6159,277000.0,8,Pune
+Tata ALTROZ,Tata,2022,60344,Diesel,Manual,12327,698000.0,4,Pune
+Renault Kwid,Renault,2022,38311,Petrol,Manual,6310,357000.0,4,Pune
+Hyundai Xcent,Hyundai,2015,25456,Petrol,Manual,8848,336000.0,11,Pune
+Honda Amaze,Honda,2013,39447,Petrol,Manual,11486,244000.0,13,Pune
+Honda City,Honda,2014,64491,Diesel,Manual,21241,451000.0,12,Pune
+Maruti Ciaz,Maruti,2016,85876,CNG,Auto,17271,520000.0,10,Pune
+Maruti Swift Dzire,Maruti,2015,61222,Petrol,Manual,9454,359000.0,11,Pune
+Tata Tiago,Tata,2018,102630,Petrol,Manual,7029,316000.0,8,Pune
+KIA SONET,KIA,2022,73279,Diesel,Manual,14520,848000.0,4,Pune
+KIA SELTOS,KIA,2023,31141,Petrol,Manual,17551,1025000.0,3,Pune
+Hyundai Grand i10,Hyundai,2015,42040,Petrol,Manual,7821,297000.0,11,Pune
+Honda City,Honda,2018,97607,Petrol,Auto,11456,649000.0,8,Pune
+KIA CARENS,KIA,2023,34614,Diesel,Auto,25478,1488000.0,3,Pune
+Hyundai Creta,Hyundai,2019,100514,Petrol,Auto,18206,836999.9999999999,7,Pune
+Volkswagen Vento,Volkswagen,2019,116810,Petrol,Auto,14859,668000.0,7,Pune
+Hyundai Grand i10,Hyundai,2017,70307,Petrol,Manual,7075,362000.0,9,Pune
+Maruti Celerio,Maruti,2025,80,Petrol,Manual,8297,470000.0,1,Pune
+Hyundai Grand i10,Hyundai,2016,80145,CNG,Manual,11709,353000.0,10,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2021,67634,CNG,Manual,8797,498000.00000000006,5,Pune
+Toyota URBAN CRUISER HYRYDER,Toyota,2023,60430,Hybrid,Auto,29108,1700000.0,3,Pune
+Hyundai NEW SANTRO,Hyundai,2022,61834,CNG,Manual,7655,434000.0,4,Pune
+Mahindra XUV700,Mahindra,2022,76554,Petrol,Auto,28697,1676000.0000000002,4,Pune
+Renault Duster,Renault,2013,23481,Petrol,Manual,14282,303000.0,13,Pune
+KIA SELTOS,KIA,2024,19001,Diesel,Auto,29622,1730000.0,2,Pune
+Honda Amaze,Honda,2015,51423,Petrol,Manual,8690,330000.0,11,Pune
+Honda City,Honda,2014,78910,Petrol,Manual,13064,393000.0,12,Pune
+Maruti Celerio X,Maruti,2020,17849,Petrol,Auto,7467,423000.00000000006,6,Pune
+Tata ALTROZ,Tata,2023,25207,Diesel,Manual,14097,799000.0,3,Pune
+Hyundai NEW SANTRO,Hyundai,2021,11160,Petrol,Manual,6532,370000.0,5,Pune
+Hyundai Grand i10,Hyundai,2016,67313,Petrol,Manual,7112,320000.0,10,Pune
+KIA SONET,KIA,2020,37875,Diesel,Auto,16951,990000.0,6,Pune
+Hyundai NEW SANTRO,Hyundai,2020,115243,CNG,Manual,8075,363000.0,6,Pune
+Maruti Ciaz,Maruti,2020,52387,Petrol,Auto,12064,683000.0,6,Pune
+Hyundai VENUE,Hyundai,2023,58132,Petrol,Manual,15326,894999.9999999999,3,Pune
+KIA SELTOS,KIA,2022,35856,Petrol,Manual,23455,1370000.0,4,Pune
+Audi Q8,Audi,2019,19992,Petrol,Auto,133555,7800000.0,7,Pune
+Renault Kwid,Renault,2019,60949,Petrol,Manual,5750,326000.0,7,Pune
+Hyundai NEW SANTRO,Hyundai,2020,80349,CNG,Manual,6411,363000.0,6,Pune
+Hyundai Elite i20,Hyundai,2020,118689,Petrol,Manual,9343,420000.0,6,Pune
+Maruti Celerio,Maruti,2018,57846,Petrol,Auto,6651,377000.0,8,Pune
+Honda Jazz,Honda,2015,97501,Petrol,Manual,9270,352000.0,11,Pune
+KIA SONET,KIA,2022,21012,Diesel,Manual,16881,986000.0,4,Pune
+MG HECTOR,MG,2020,61381,Petrol,Auto,18872,1102000.0,6,Pune
+MG HECTOR,MG,2019,69033,Petrol,Auto,17462,1019999.9999999999,7,Pune
+KIA SELTOS,KIA,2019,82755,Petrol,Manual,16420,959000.0,7,Pune
+KIA SONET,KIA,2024,8588,Diesel,Manual,20085,1173000.0,2,Pune
+Skoda Kodiaq,Skoda,2021,80095,Petrol,Auto,40923,2390000.0,5,Pune
+Hyundai NEW SANTRO,Hyundai,2020,23438,Petrol,Auto,8564,484999.99999999994,6,Pune
+Maruti Swift,Maruti,2019,69708,Petrol,Auto,9414,533000.0,7,Pune
+Honda City,Honda,2019,58304,Petrol,Manual,10079,571000.0,7,Pune
+Honda Amaze,Honda,2014,94916,Petrol,Manual,7313,220000.00000000003,12,Pune
+Maruti Baleno,Maruti,2019,95665,Petrol,Manual,7429,421000.0,7,Pune
+Tata Tiago,Tata,2022,64278,CNG,Manual,8442,478000.0,4,Pune
+Hyundai Grand i10,Hyundai,2017,31302,Petrol,Manual,7673,392000.0,9,Pune
+Toyota Fortuner,Toyota,2024,16861,Diesel,Manual,63353,3700000.0,2,Pune
+Landrover Range Rover,Landrover,2020,61758,Diesel,Auto,265398,15500000.0,6,Pune
+Tata NEXON,Tata,2021,23563,Petrol,Manual,13604,771000.0,5,Pune
+Mahindra TUV300,Mahindra,2018,93366,Diesel,Manual,11512,589000.0,8,Pune
+Mahindra Thar,Mahindra,2024,9543,Petrol,Auto,24413,1426000.0,2,Pune
+Toyota URBAN CRUISER,Toyota,2021,45969,Petrol,Manual,12136,687000.0,5,Pune
+Tata PUNCH,Tata,2022,17148,Petrol,Manual,12304,697000.0,4,Pune
+Renault Kwid,Renault,2016,44467,Petrol,Auto,3804,171000.0,10,Pune
+Maruti Alto 800,Maruti,2013,61572,Petrol,Manual,7202,153000.0,13,Pune
+Maruti Celerio,Maruti,2015,223500,Petrol,Manual,6057,229999.99999999997,11,Pune
+Mahindra XUV500,Mahindra,2017,108618,Diesel,Manual,12679,570000.0,9,Pune
+Maruti Celerio,Maruti,2017,24524,Petrol,Auto,5633,288000.0,9,Pune
+Maruti Dzire,Maruti,2018,115542,Diesel,Auto,11612,522000.0,8,Pune
+Maruti Swift,Maruti,2015,114107,Petrol,Manual,8005,304000.0,11,Pune
+Hyundai Elite i20,Hyundai,2016,152649,Diesel,Manual,9480,360000.0,10,Pune
+Ford Figo,Ford,2014,131816,Diesel,Manual,7955,169000.0,12,Pune
+Maruti Baleno,Maruti,2017,57970,Petrol,Manual,9384,480000.0,9,Pune
+Maruti Ritz,Maruti,2014,52657,Petrol,Manual,10662,321000.0,12,Pune
+Maruti Ciaz,Maruti,2016,46848,Petrol,Manual,10010,450000.0,10,Pune
+Maruti Baleno,Maruti,2016,36786,Petrol,Auto,11167,501999.99999999994,10,Pune
+Tata ALTROZ,Tata,2020,58505,Petrol,Manual,6125,347000.0,6,Pune
+Maruti Wagon R 1.0,Maruti,2013,91972,Petrol,Manual,14828,315000.0,13,Pune
+Maruti Celerio,Maruti,2021,47390,Petrol,Manual,6249,354000.0,5,Pune
+Maruti Swift,Maruti,2014,56030,Petrol,Manual,8835,266000.0,12,Pune
+Tata ALTROZ,Tata,2022,42405,Petrol,Manual,10150,575000.0,4,Pune
+Maruti IGNIS,Maruti,2018,49826,Petrol,Manual,4855,275000.0,8,Pune
+Tata Tiago,Tata,2017,122775,Petrol,Manual,4916,221000.0,9,Pune
+Nissan MAGNITE,Nissan,2021,39147,Petrol,Manual,7626,432000.0,5,Pune
+Honda City,Honda,2015,56312,Petrol,Manual,14958,568000.0,11,Pune
+Hyundai Grand i10,Hyundai,2014,64877,Petrol,Manual,10296,310000.0,12,Pune
+MG ASTOR,MG,2023,53190,Petrol,Manual,11827,670000.0,3,Pune
+Honda City,Honda,2014,90127,Petrol,Manual,11027,332000.0,12,Pune
+Maruti Celerio,Maruti,2018,42582,Petrol,Manual,7344,416000.0,8,Pune
+Maruti Zen Estilo,Maruti,2011,26088,Petrol,Manual,7344,89000.0,15,Pune
+Chevrolet Beat,Chevrolet,2013,98477,Petrol,Manual,4378,93000.0,13,Pune
+Hyundai i20,Hyundai,2011,95429,Petrol,Manual,4378,175000.0,15,Pune
+Maruti XL6,Maruti,2022,59444,Petrol,Auto,14554,850000.0,4,Pune
+Hyundai Grand i10,Hyundai,2016,124545,Petrol,Manual,7786,350000.0,10,Pune
+Tata Zest,Tata,2018,79179,Petrol,Manual,4855,275000.0,8,Pune
+Hyundai i10,Hyundai,2012,60685,Petrol,Manual,19902,224000.00000000003,14,Pune
+Tata NEXON,Tata,2021,52684,Petrol,Auto,15496,905000.0000000001,5,Pune
+Honda City,Honda,2012,106976,Petrol,Manual,26477,298000.0,14,Pune
+Hyundai i10,Hyundai,2012,87903,Petrol,Manual,20169,227000.0,14,Pune
+Volkswagen Polo,Volkswagen,2015,79342,Petrol,Manual,7742,294000.0,11,Pune
+Hyundai i20,Hyundai,2014,71762,Petrol,Manual,10429,314000.0,12,Pune
+Renault Duster,Renault,2015,53202,Diesel,Manual,18035,543000.0,11,Pune
+Volkswagen Polo,Volkswagen,2011,125629,Diesel,Manual,18035,100000.0,15,Pune
+Hyundai i10,Hyundai,2012,126770,Petrol,Manual,16348,184000.0,14,Pune
+MG ASTOR,MG,2022,39255,Petrol,Auto,19211,1122000.0,4,Pune
+Hyundai Verna,Hyundai,2013,125356,Diesel,Manual,22656,254999.99999999997,13,Pune
+Hyundai i10,Hyundai,2012,61890,Petrol,Manual,15993,180000.0,14,Pune
+Skoda Rapid,Skoda,2015,93087,Diesel,Auto,7307,220000.00000000003,11,Pune
+Maruti Celerio,Maruti,2017,52029,Petrol,Manual,5435,278000.0,9,Pune
+MG HECTOR PLUS,MG,2024,11030,Petrol,Manual,27396,1600000.0,2,Pune
+Maruti Alto 800,Maruti,2013,115616,Petrol,Manual,10309,219000.0,13,Pune
+KIA CARENS,KIA,2023,52586,Diesel,Manual,18835,1100000.0,3,Pune
+Volkswagen Vento,Volkswagen,2012,87345,Petrol,Manual,14216,160000.0,14,Pune
+Maruti Wagon R 1.0,Maruti,2013,129128,Petrol,Manual,12757,271000.0,13,Pune
+Hyundai i10,Hyundai,2012,96918,Petrol,Manual,15637,176000.0,14,Pune
+Maruti FRONX,Maruti,2024,2616,Petrol,Manual,11933,676000.0,2,Pune
+Hyundai Eon,Hyundai,2012,70905,Petrol,Manual,10395,117000.0,14,Pune
+Renault Kwid,Renault,2016,55823,Petrol,Manual,4093,184000.0,10,Pune
+Maruti IGNIS,Maruti,2018,41297,Petrol,Manual,6267,355000.0,8,Pune
+KIA CARENS,KIA,2024,10022,Petrol,Auto,25923,1514000.0,2,Pune
+Hyundai i10,Hyundai,2012,39705,Petrol,Manual,18303,206000.0,14,Pune
+Maruti Wagon R 1.0,Maruti,2017,171777,Petrol,Manual,7519,338000.0,9,Pune
+Maruti Vitara Brezza,Maruti,2016,136845,Diesel,Manual,12930,491000.0,10,Pune
+Hyundai i10,Hyundai,2013,75594,Petrol,Manual,9650,204999.99999999997,13,Pune
+Maruti Wagon R 1.0,Maruti,2012,89797,Petrol,Manual,15993,180000.0,14,Pune
+Maruti Alto 800,Maruti,2015,73171,Petrol,Manual,5267,200000.0,11,Pune
+Maruti Ciaz,Maruti,2017,77438,Petrol,Manual,7527,385000.0,9,Pune
+Volkswagen VIRTUS,Volkswagen,2023,40906,Petrol,Manual,16780,980000.0000000001,3,Pune
+Maruti Wagon R 1.0,Maruti,2012,102255,Petrol,Manual,17770,200000.0,14,Pune
+Tata Nano,Tata,2017,21170,Petrol,Auto,2933,150000.0,9,Pune
+Honda Amaze,Honda,2015,50886,Diesel,Manual,6145,185000.0,11,Pune
+Jeep Compass,Jeep,2017,79075,Petrol,Auto,15798,830000.0000000001,9,Pune
+Hyundai VENUE,Hyundai,2022,40755,Diesel,Manual,12428,704000.0,4,Pune
+Hyundai i10,Hyundai,2012,33341,Petrol,Auto,23634,266000.0,14,Pune
+Maruti Swift,Maruti,2014,133453,Petrol,Manual,7440,224000.00000000003,12,Pune
+Honda Amaze,Honda,2013,153279,Diesel,Manual,20791,234000.0,13,Pune
+Mahindra Thar,Mahindra,2016,111463,Diesel,Manual,12930,491000.0,10,Pune
+Volkswagen Polo,Volkswagen,2014,55056,Petrol,Manual,10031,302000.0,12,Pune
+Maruti Alto 800,Maruti,2012,75707,Petrol,Manual,14127,159000.0,14,Pune
+Maruti Alto 800,Maruti,2015,39679,Petrol,Manual,5820,221000.0,11,Pune
+Maruti Zen Estilo,Maruti,2013,106843,Petrol,Manual,9415,200000.0,13,Pune
+Hyundai i10,Hyundai,2013,84101,Petrol,Manual,12192,259000.0,13,Pune
+Maruti Celerio,Maruti,2018,26356,Petrol,Auto,6355,360000.0,8,Pune
+Maruti Alto 800,Maruti,2014,19617,Petrol,Manual,7141,215000.0,12,Pune
+Maruti Alto K10,Maruti,2012,66364,Petrol,Manual,10218,114999.99999999999,14,Pune
+Maruti IGNIS,Maruti,2017,44935,Petrol,Manual,5865,300000.0,9,Pune
+Hyundai i10,Hyundai,2013,60881,Petrol,Manual,9038,192000.0,13,Pune
+Hyundai Eon,Hyundai,2014,94377,Petrol,Manual,4816,145000.0,12,Pune
+Hyundai Eon,Hyundai,2015,61135,Petrol,Manual,4766,181000.0,11,Pune
+Ford Ecosport,Ford,2014,97002,Diesel,Manual,10686,227000.0,12,Pune
+Volkswagen Vento,Volkswagen,2013,83014,Petrol,Manual,11062,235000.0,13,Pune
+Maruti Wagon R 1.0,Maruti,2013,55866,Petrol,Manual,7061,150000.0,13,Pune
+Maruti Swift,Maruti,2018,49390,Petrol,Manual,9003,509999.99999999994,8,Pune
+Maruti Alto 800,Maruti,2016,15358,Petrol,Manual,5005,225000.0,10,Pune
+Maruti Wagon R 1.0,Maruti,2017,101695,Petrol,Manual,7808,351000.0,9,Pune
+Ford Figo,Ford,2012,66083,Petrol,Manual,10662,120000.0,14,Pune
+Toyota Etios Liva,Toyota,2011,51423,Petrol,Manual,10662,140000.0,15,Pune
+Maruti Vitara Brezza,Maruti,2021,40089,Petrol,Manual,10680,605000.0,5,Pune
+Volkswagen Passat,Volkswagen,2012,151216,Diesel,Auto,10680,379000.0,14,Pune
+Maruti Alto 800,Maruti,2015,42372,Petrol,Manual,4608,175000.0,11,Pune
+Hyundai Elite i20,Hyundai,2018,90145,Diesel,Manual,10929,559000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2013,95638,Petrol,Manual,11533,245000.00000000003,13,Pune
+Maruti Swift Dzire,Maruti,2013,95043,Petrol,Manual,12333,262000.0,13,Pune
+Maruti Ertiga,Maruti,2024,29423,Petrol,Manual,18167,1061000.0,2,Pune
+Ford Ecosport,Ford,2014,11657,Diesel,Manual,17229,366000.0,12,Pune
+Mahindra XUV500,Mahindra,2012,214193,Diesel,Manual,17229,268000.0,14,Pune
+Nissan Terrano,Nissan,2014,285847,Diesel,Manual,11768,250000.0,12,Pune
+Nissan MAGNITE,Nissan,2021,48852,Petrol,Manual,7467,423000.00000000006,5,Pune
+Ford Ecosport,Ford,2013,151760,Diesel,Manual,18214,204999.99999999997,13,Pune
+Honda Jazz,Honda,2012,53624,Petrol,Manual,19547,220000.00000000003,14,Pune
+Maruti Wagon R 1.0,Maruti,2015,59181,Petrol,Manual,9164,348000.0,11,Pune
+Hyundai i10,Hyundai,2013,45223,Petrol,Manual,6355,135000.0,13,Pune
+Tata ALTROZ,Tata,2021,13851,Petrol,Manual,8456,479000.0,5,Pune
+Hyundai i10,Hyundai,2015,64796,Petrol,Manual,7584,288000.0,11,Pune
+Hyundai Verna,Hyundai,2012,302565,Diesel,Manual,7584,276000.0,14,Pune
+Hyundai Xcent,Hyundai,2015,108769,Petrol,Manual,6847,260000.0,11,Pune
+Maruti Wagon R 1.0,Maruti,2015,89076,Petrol,Manual,8796,334000.0,11,Pune
+Maruti Swift,Maruti,2018,26457,Petrol,Manual,7414,420000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2011,92969,Petrol,Manual,7414,178000.0,15,Pune
+Honda Amaze,Honda,2014,109316,Diesel,Manual,11062,235000.0,12,Pune
+Hyundai Creta,Hyundai,2023,33924,Petrol,Manual,20787,1214000.0,3,Pune
+Ford Fiesta Classic,Ford,2011,89862,Petrol,Manual,20787,208000.0,15,Pune
+Ford Fiesta,Ford,2012,65701,Petrol,Auto,16437,185000.0,14,Pune
+KIA SELTOS,KIA,2019,10353,Petrol,Auto,20547,1200000.0,7,Pune
+Hyundai i20,Hyundai,2012,119861,Petrol,Manual,17326,195000.0,14,Pune
+Maruti Wagon R 1.0,Maruti,2016,169297,Petrol,Manual,7608,342000.0,10,Pune
+Hyundai Eon,Hyundai,2015,29589,Petrol,Manual,5267,200000.0,11,Pune
+Honda Amaze,Honda,2020,29366,Petrol,Auto,8826,500000.0,6,Pune
+Maruti Wagon R 1.0,Maruti,2014,49729,Petrol,Manual,9134,275000.0,12,Pune
+Maruti Wagon R 1.0,Maruti,2017,68519,Petrol,Manual,6647,340000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2013,114519,Petrol,Manual,8002,170000.0,13,Pune
+Maruti Swift Dzire,Maruti,2011,80386,Petrol,Manual,8002,217000.0,15,Pune
+Hyundai Xcent,Hyundai,2017,55063,Petrol,Manual,6843,350000.0,9,Pune
+Volkswagen Polo,Volkswagen,2013,82204,Petrol,Manual,10592,225000.0,13,Pune
+Maruti Wagon R 1.0,Maruti,2016,106692,Petrol,Manual,7674,345000.0,10,Pune
+Maruti Swift Dzire,Maruti,2013,36657,Petrol,Manual,16899,359000.0,13,Pune
+Maruti Eeco,Maruti,2023,48445,Petrol,Manual,10592,600000.0,3,Pune
+Hyundai Xcent,Hyundai,2014,113329,Petrol,Manual,8968,270000.0,12,Pune
+Volkswagen Vento,Volkswagen,2015,96712,Diesel,Auto,10463,315000.0,11,Pune
+Tata TIGOR,Tata,2021,34661,Petrol,Manual,10486,594000.0,5,Pune
+Tata Nano,Tata,2010,21974,Petrol,Manual,10486,39000.0,16,Pune
+Maruti Wagon R 1.0,Maruti,2016,73411,Petrol,Auto,6918,311000.0,10,Pune
+Honda Brio,Honda,2017,48141,Petrol,Manual,5474,280000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2012,109605,Petrol,Manual,15015,169000.0,14,Pune
+Skoda Rapid,Skoda,2013,114613,Petrol,Manual,11345,241000.0,13,Pune
+Tata NEXON,Tata,2018,55116,Diesel,Auto,11241,575000.0,8,Pune
+Maruti Zen Estilo,Maruti,2011,103374,Petrol,Manual,11241,147000.0,15,Pune
+Hyundai Grand i10,Hyundai,2016,56798,Petrol,Manual,6495,292000.0,10,Pune
+Skoda Rapid,Skoda,2020,52195,Petrol,Manual,9532,540000.0,6,Pune
+Maruti Swift,Maruti,2010,113277,Petrol,Manual,9532,80000.0,16,Pune
+Tata NEXON,Tata,2023,18277,Petrol,Manual,13187,747000.0,3,Pune
+Hyundai VENUE,Hyundai,2020,43619,Petrol,Manual,9709,550000.0,6,Pune
+Maruti Alto K10,Maruti,2012,86355,Petrol,Manual,12883,145000.0,14,Pune
+Hyundai i10,Hyundai,2011,58709,Petrol,Manual,12883,165000.0,15,Pune
+Skoda Fabia,Skoda,2011,110293,Petrol,Manual,12883,151000.0,15,Pune
+Hyundai i20,Hyundai,2011,97102,Petrol,Manual,12883,181000.0,15,Pune
+Honda City,Honda,2012,36178,Petrol,Manual,17237,194000.0,14,Pune
+Ford Figo,Ford,2010,134029,Petrol,Manual,17237,95000.0,16,Pune
+Hyundai NEW I20,Hyundai,2021,17812,Petrol,Manual,9215,522000.0,5,Pune
+Maruti Wagon R 1.0,Maruti,2011,141070,Petrol,Manual,9215,187000.0,15,Pune
+Hyundai i20,Hyundai,2011,64341,Petrol,Manual,9215,172000.0,15,Pune
+Maruti Swift,Maruti,2013,74482,Petrol,Manual,16664,354000.0,13,Pune
+Renault Duster,Renault,2014,91483,Diesel,Manual,12004,254999.99999999997,12,Pune
+Tata Nano,Tata,2014,83291,Petrol,Manual,2923,88000.0,12,Pune
+Honda City,Honda,2014,120789,Petrol,Manual,9632,290000.0,12,Pune
+Tata PUNCH,Tata,2024,12134,Petrol,Auto,14674,857000.0,2,Pune
+Tata Manza,Tata,2012,50913,Petrol,Manual,17681,199000.0,14,Pune
+Hyundai Verna,Hyundai,2021,63908,Diesel,Manual,15701,917000.0,5,Pune
+Maruti S Cross,Maruti,2017,140590,Diesel,Manual,12012,540000.0,9,Pune
+Hyundai i10,Hyundai,2011,60683,Petrol,Auto,12012,225000.0,15,Pune
+Maruti Vitara Brezza,Maruti,2017,114166,Diesel,Manual,13102,589000.0,9,Pune
+Ford Figo,Ford,2012,63398,Diesel,Manual,13102,181000.0,14,Pune
+Toyota Innova Crysta,Toyota,2021,99559,Diesel,Manual,25735,1503000.0,5,Pune
+Honda Jazz,Honda,2016,71906,Petrol,Manual,7318,329000.0,10,Pune
+Honda Amaze,Honda,2013,95046,Diesel,Manual,22834,256999.99999999997,13,Pune
+Tata NEXON,Tata,2023,47435,Petrol,Auto,14554,850000.0,3,Pune
+Maruti Wagon R 1.0,Maruti,2018,124730,Petrol,Manual,7229,325000.0,8,Pune
+Maruti Alto K10,Maruti,2017,28120,Petrol,Auto,5583,250999.99999999997,9,Pune
+Maruti Wagon R 1.0,Maruti,2013,134385,Petrol,Manual,9603,204000.0,13,Pune
+Tata Nano,Tata,2014,100508,Petrol,Manual,2757,83000.0,12,Pune
+Honda City,Honda,2010,118903,Petrol,Auto,2757,213000.0,16,Pune
+Honda City,Honda,2011,70005,Petrol,Auto,2757,219000.0,15,Pune
+Maruti Wagon R 1.0,Maruti,2013,29673,Petrol,Manual,10403,221000.0,13,Pune
+Maruti BREZZA,Maruti,2023,24017,Petrol,Manual,13240,750000.0,3,Pune
+Chevrolet Beat,Chevrolet,2015,50736,Diesel,Manual,5348,161000.0,11,Pune
+Tata Tiago,Tata,2017,129244,Petrol,Manual,7118,320000.0,9,Pune
+Tata NEXON,Tata,2022,27755,Petrol,Manual,12087,685000.0,4,Pune
+Volkswagen Polo,Volkswagen,2011,133798,Diesel,Manual,12087,155000.0,15,Pune
+Maruti Zen Estilo,Maruti,2012,91891,Petrol,Manual,13949,157000.0,14,Pune
+Hyundai Xcent,Hyundai,2014,130338,Petrol,Manual,9865,297000.0,12,Pune
+Tata TIGOR,Tata,2021,33163,Petrol,Manual,8332,472000.0,5,Pune
+Volkswagen Vento,Volkswagen,2011,64630,Petrol,Manual,8332,211000.0,15,Pune
+Maruti Wagon R 1.0,Maruti,2017,89060,Petrol,Manual,6862,351000.0,9,Pune
+Tata Zest,Tata,2015,111931,Petrol,Manual,8716,331000.0,11,Pune
+Tata NEXON,Tata,2025,11125,Petrol,Auto,19451,1136000.0,1,Pune
+Honda Civic,Honda,2012,67501,Petrol,Auto,24433,275000.0,14,Pune
+Maruti Dzire,Maruti,2017,79702,Petrol,Auto,7312,374000.0,9,Pune
+Hyundai Grand i10,Hyundai,2015,62535,Petrol,Manual,7242,275000.0,11,Pune
+Hyundai Verna,Hyundai,2011,91249,Petrol,Manual,7242,194000.0,15,Pune
+Volkswagen Polo,Volkswagen,2013,183794,Petrol,Manual,12380,263000.0,13,Pune
+Hyundai AURA,Hyundai,2021,48711,Petrol,Auto,8950,507000.0,5,Pune
+Tata Tiago,Tata,2016,149567,Petrol,Manual,6451,290000.0,10,Pune
+Hyundai Elite i20,Hyundai,2018,46965,Petrol,Auto,7592,430000.0,8,Pune
+Honda City,Honda,2011,110542,Petrol,Auto,7592,220000.00000000003,15,Pune
+Maruti Ciaz,Maruti,2015,203596,Petrol,Manual,8137,309000.0,11,Pune
+Maruti Swift Dzire,Maruti,2014,95278,Petrol,Manual,12223,368000.0,12,Pune
+Honda City,Honda,2011,100744,Petrol,Manual,12223,154000.0,15,Pune
+Maruti Baleno,Maruti,2016,96644,Petrol,Manual,6896,310000.0,10,Pune
+Maruti Swift,Maruti,2018,83382,Petrol,Manual,7697,436000.00000000006,8,Pune
+Chevrolet Spark,Chevrolet,2014,32196,Petrol,Manual,3321,100000.0,12,Pune
+Volkswagen Jetta,Volkswagen,2011,169600,Diesel,Auto,3321,225000.0,15,Pune
+Volkswagen Vento,Volkswagen,2013,210050,Diesel,Manual,28165,317000.0,13,Pune
+Tata Zest,Tata,2016,166078,Petrol,Manual,5539,249000.00000000003,10,Pune
+Hyundai i20,Hyundai,2011,81023,Petrol,Manual,5539,197000.0,15,Pune
+Honda Amaze,Honda,2021,77346,Petrol,Manual,7785,441000.0,5,Pune
+Hyundai VENUE,Hyundai,2019,79298,Petrol,Manual,9744,552000.0,7,Pune
+Maruti Ciaz,Maruti,2017,37729,Petrol,Manual,8504,434999.99999999994,9,Pune
+Tata Tigor Buzz,Tata,2018,169376,Diesel,Manual,6851,308000.0,8,Pune
+Maruti Swift Dzire,Maruti,2013,207698,Diesel,Manual,39627,446000.0,13,Pune
+Maruti Ritz,Maruti,2012,48101,Petrol,Manual,17770,200000.0,14,Pune
+Tata Tiago,Tata,2017,107113,Petrol,Manual,7541,339000.0,9,Pune
+Hyundai i20,Hyundai,2013,155282,Diesel,Manual,20968,236000.0,13,Pune
+Maruti Swift,Maruti,2018,73397,Petrol,Manual,8014,454000.0,8,Pune
+Tata PUNCH,Tata,2024,13059,Petrol,Manual,13769,780000.0,2,Pune
+Hyundai i20,Hyundai,2014,64294,Petrol,Manual,8636,260000.0,12,Pune
+Hyundai Santro Xing,Hyundai,2011,49038,Petrol,Manual,8636,143000.0,15,Pune
+Maruti Wagon R 1.0,Maruti,2013,26165,Petrol,Manual,10356,220000.00000000003,13,Pune
+Maruti Ritz,Maruti,2013,112265,Diesel,Manual,23989,270000.0,13,Pune
+Maruti Wagon R 1.0,Maruti,2011,72254,Petrol,Manual,23989,150000.0,15,Pune
+Hyundai i20,Hyundai,2012,102524,Diesel,Manual,23989,217000.0,14,Pune
+Hyundai i10,Hyundai,2011,51867,Petrol,Manual,23989,150000.0,15,Pune
+Tata Manza,Tata,2011,43068,Petrol,Manual,23989,180000.0,15,Pune
+Hyundai Elite i20,Hyundai,2017,89521,Petrol,Manual,8133,416000.0,9,Pune
+Honda Jazz,Honda,2012,83946,Petrol,Manual,17770,200000.0,14,Pune
+Hyundai Elite i20,Hyundai,2019,34634,Petrol,Manual,11968,538000.0,7,Pune
+Toyota Etios Liva,Toyota,2014,60776,Petrol,Manual,8636,260000.0,12,Pune
+Hyundai Grand i10,Hyundai,2014,97024,Petrol,Manual,8835,266000.0,12,Pune
+Hyundai Grand i10,Hyundai,2016,53448,Petrol,Manual,9231,415000.00000000006,10,Pune
+Toyota Innova,Toyota,2014,203288,Diesel,Manual,32622,693000.0,12,Pune
+Volkswagen Polo,Volkswagen,2011,62254,Petrol,Manual,32622,105000.0,15,Pune
+Audi A6,Audi,2013,160327,Diesel,Auto,43269,487000.0,13,Pune
+Tata TIGOR,Tata,2022,24414,Petrol,Manual,12269,695000.0,4,Pune
+Tata Tiago,Tata,2016,54457,Petrol,Manual,6473,291000.0,10,Pune
+Hyundai i10,Hyundai,2013,101619,Petrol,Manual,8002,170000.0,13,Pune
+Maruti Wagon R 1.0,Maruti,2014,105060,Petrol,Manual,5447,164000.0,12,Pune
+Maruti Wagon R 1.0,Maruti,2011,71537,Petrol,Manual,5447,135000.0,15,Pune
+Maruti Wagon R 1.0,Maruti,2014,34585,Petrol,Manual,9566,288000.0,12,Pune
+Volkswagen Vento,Volkswagen,2011,74612,Petrol,Manual,9566,155000.0,15,Pune
+Maruti Ertiga,Maruti,2023,7825,Petrol,Manual,15581,910000.0,3,Pune
+Hyundai Eon,Hyundai,2013,37392,Petrol,Manual,8050,171000.0,13,Pune
+Maruti Swift Dzire,Maruti,2013,48183,Petrol,Manual,11109,236000.0,13,Pune
+Hyundai i20,Hyundai,2012,166394,Diesel,Manual,11109,196000.0,14,Pune
+Renault Fluence,Renault,2011,86229,Diesel,Manual,11109,210000.0,15,Pune
+Renault Duster,Renault,2013,137744,Petrol,Manual,9603,204000.0,13,Pune
+Nissan MAGNITE,Nissan,2024,10454,Petrol,Manual,11633,659000.0,2,Pune
+Maruti Ritz,Maruti,2013,78256,Petrol,Manual,13275,282000.0,13,Pune
+Maruti Swift,Maruti,2017,84181,Petrol,Manual,8895,455000.0,9,Pune
+Ford Figo Aspire,Ford,2017,49705,Petrol,Manual,6569,336000.0,9,Pune
+Maruti Ertiga,Maruti,2012,46542,Diesel,Manual,6569,283000.0,14,Pune
+Maruti Swift,Maruti,2018,35479,Petrol,Manual,9003,509999.99999999994,8,Pune
+Volkswagen Polo,Volkswagen,2011,79551,Petrol,Manual,9003,150000.0,15,Pune
+Renault Duster,Renault,2017,69134,Diesel,Manual,9988,449000.0,9,Pune
+Chevrolet Beat,Chevrolet,2011,148284,Diesel,Manual,9988,68000.0,15,Pune
+Hyundai NEW I20,Hyundai,2021,19498,Petrol,Auto,10856,615000.0,5,Pune
+Renault Kwid,Renault,2017,71989,Petrol,Manual,4790,245000.00000000003,9,Pune
+Maruti Swift Dzire,Maruti,2013,129954,Petrol,Manual,14969,318000.0,13,Pune
+Tata PUNCH,Tata,2023,57387,Petrol,Auto,11421,647000.0,3,Pune
+Hyundai i20,Hyundai,2010,65549,Petrol,Manual,11421,184000.0,16,Pune
+Hyundai Grand i10,Hyundai,2015,91031,Petrol,Manual,7373,280000.0,11,Pune
+Maruti Celerio,Maruti,2015,105655,Petrol,Manual,6847,260000.0,11,Pune
+Volkswagen Polo,Volkswagen,2013,114335,Petrol,Manual,13416,285000.0,13,Pune
+Maruti Ertiga,Maruti,2019,87394,Petrol,Auto,14034,795000.0,7,Pune
+Tata ALTROZ,Tata,2021,17991,Petrol,Manual,11774,667000.0,5,Pune
+Maruti Wagon R 1.0,Maruti,2015,126421,Petrol,Manual,4740,180000.0,11,Pune
+Tata TIAGO NRG,Tata,2023,23641,Petrol,Auto,9656,547000.0,3,Pune
+Hyundai AURA,Hyundai,2022,22331,Petrol,Manual,10044,569000.0,4,Pune
+Hyundai Verna,Hyundai,2014,60977,Petrol,Manual,11326,341000.0,12,Pune
+Maruti Alto K10,Maruti,2018,60743,Petrol,Auto,5596,317000.0,8,Pune
+Mahindra Scorpio,Mahindra,2010,27632,Diesel,Manual,5596,303000.0,16,Pune
+Maruti Wagon R 1.0,Maruti,2014,91203,Petrol,Manual,7473,225000.0,12,Pune
+Hyundai VENUE,Hyundai,2019,53151,Petrol,Manual,10592,600000.0,7,Pune
+Hyundai Grand i10,Hyundai,2014,98292,Petrol,Manual,11426,344000.0,12,Pune
+Hyundai i10,Hyundai,2011,73248,Petrol,Manual,11426,140000.0,15,Pune
+Chevrolet Sail,Chevrolet,2014,62934,Petrol,Manual,5846,176000.0,12,Pune
+Maruti Baleno,Maruti,2020,23826,Petrol,Manual,9303,527000.0,6,Pune
+Maruti A Star,Maruti,2013,44288,Petrol,Auto,8332,177000.0,13,Pune
+Tata Nano,Tata,2012,64765,Petrol,Manual,5953,67000.0,14,Pune
+Hyundai i20,Hyundai,2012,128919,Diesel,Manual,5953,204999.99999999997,14,Pune
+Maruti Celerio,Maruti,2017,134080,Petrol,Manual,6874,309000.0,9,Pune
+Maruti XL6,Maruti,2022,29811,Petrol,Manual,15342,896000.0000000001,4,Pune
+Hyundai Santro Xing,Hyundai,2012,52797,Petrol,Manual,11461,129000.0,14,Pune
+Maruti Wagon R 1.0,Maruti,2011,73869,Petrol,Manual,11461,158000.0,15,Pune
+Maruti S Cross,Maruti,2017,143101,Diesel,Manual,10900,490000.00000000006,9,Pune
+Tata TIGOR,Tata,2018,51422,Petrol,Manual,8773,497000.0,8,Pune
+Maruti SX4,Maruti,2010,84640,Petrol,Manual,8773,112999.99999999999,16,Pune
+Honda Brio,Honda,2017,106699,Petrol,Manual,6228,280000.0,9,Pune
+Tata Harrier,Tata,2021,82965,Diesel,Manual,18509,1081000.0,5,Pune
+Chevrolet Beat,Chevrolet,2011,165337,Diesel,Manual,18509,68000.0,15,Pune
+Hyundai Verna,Hyundai,2010,70649,Petrol,Manual,18509,165000.0,16,Pune
+Ford FREESTYLE,Ford,2021,42052,Diesel,Manual,9709,550000.0,5,Pune
+Tata Harrier,Tata,2022,81072,Diesel,Auto,28886,1687000.0,4,Pune
+Tata TIGOR,Tata,2017,90061,Diesel,Manual,8253,371000.0,9,Pune
+Ford Ecosport,Ford,2018,69788,Petrol,Manual,9956,564000.0,8,Pune
+Tata NEXON,Tata,2025,8775,Petrol,Manual,16592,969000.0,1,Pune
+Hyundai Eon,Hyundai,2013,127189,Petrol,Manual,8850,188000.0,13,Pune
+Maruti Alto K10,Maruti,2016,81314,Petrol,Manual,4961,223000.0,10,Pune
+Ford FREESTYLE,Ford,2019,65761,Diesel,Manual,7873,446000.0,7,Pune
+Hyundai Grand i10,Hyundai,2015,90171,Petrol,Manual,9375,356000.0,11,Pune
+Hyundai i10,Hyundai,2011,33366,Petrol,Manual,9375,151000.0,15,Pune
+Maruti Baleno,Maruti,2019,67633,Petrol,Manual,8120,459999.99999999994,7,Pune
+Toyota Etios,Toyota,2011,106981,Petrol,Manual,8120,184000.0,15,Pune
+Mahindra XUV500,Mahindra,2017,104000,Diesel,Auto,20677,951000.0,9,Pune
+Maruti Dzire,Maruti,2017,109180,Diesel,Manual,12724,572000.0,9,Pune
+Chevrolet Aveo,Chevrolet,2010,109429,Petrol,Manual,12724,133000.0,16,Pune
+Toyota Etios,Toyota,2012,157346,Diesel,Manual,12724,342000.0,14,Pune
+Hyundai NEW I20,Hyundai,2022,49626,Petrol,Manual,10592,600000.0,4,Pune
+Chevrolet Beat,Chevrolet,2011,67783,Petrol,Manual,10592,119000.0,15,Pune
+Tata Tiago,Tata,2017,75271,Petrol,Manual,6803,348000.0,9,Pune
+Hyundai Santro Xing,Hyundai,2012,158224,Petrol,Manual,11373,128000.0,14,Pune
+Mahindra Kuv100,Mahindra,2016,83053,Diesel,Manual,7900,300000.0,10,Pune
+Maruti Swift,Maruti,2022,41367,Petrol,Auto,9921,562000.0,4,Pune
+Volkswagen Vento,Volkswagen,2011,131041,Diesel,Manual,9921,161000.0,15,Pune
+Maruti Swift,Maruti,2015,131952,Petrol,Manual,8374,318000.0,11,Pune
+Hyundai Verna,Hyundai,2011,100178,Petrol,Manual,8374,181000.0,15,Pune
+Maruti Eeco,Maruti,2012,108262,Petrol,Manual,18747,211000.0,14,Pune
+Hyundai Verna,Hyundai,2011,122988,Petrol,Auto,18747,227000.0,15,Pune
+Maruti Alto K10,Maruti,2015,81342,Petrol,Auto,6926,263000.0,11,Pune
+Maruti Swift,Maruti,2024,17671,Petrol,Manual,12339,699000.0,2,Pune
+Fiat Grand Punto,Fiat,2011,199002,Diesel,Manual,12339,68000.0,15,Pune
+Maruti Swift,Maruti,2019,63503,Petrol,Manual,9285,526000.0,7,Pune
+Toyota Etios,Toyota,2011,94066,Petrol,Manual,9285,202999.99999999997,15,Pune
+Maruti Zen Estilo,Maruti,2011,18290,Petrol,Manual,9285,152000.0,15,Pune
+Ford Figo Aspire,Ford,2015,59582,Petrol,Auto,6741,256000.0,11,Pune
+Volkswagen Vento,Volkswagen,2011,118360,Petrol,Manual,6741,224000.00000000003,15,Pune
+Maruti Alto 800,Maruti,2018,40128,Petrol,Manual,4960,281000.0,8,Pune
+Honda BR-V,Honda,2017,59467,Petrol,Manual,8739,447000.0,9,Pune
+Hyundai Grand i10,Hyundai,2013,97886,Diesel,Manual,23012,259000.0,13,Pune
+Maruti Alto K10,Maruti,2016,83404,Petrol,Manual,3982,179000.0,10,Pune
+Honda Amaze,Honda,2015,100690,Petrol,Manual,9349,355000.0,11,Pune
+Nissan Micra,Nissan,2011,156574,Diesel,Manual,9349,111000.00000000001,15,Pune
+Honda City,Honda,2012,110184,Petrol,Manual,14660,165000.0,14,Pune
+Maruti Wagon R 1.0,Maruti,2011,44037,Petrol,Manual,14660,132000.0,15,Pune
+Maruti Ciaz,Maruti,2015,119025,Petrol,Manual,11587,440000.00000000006,11,Pune
+BMW X1,BMW,2011,168669,Diesel,Auto,11587,359000.0,15,Pune
+Maruti A Star,Maruti,2011,59855,Petrol,Manual,11587,119000.0,15,Pune
+Tata NEXON,Tata,2021,24878,Petrol,Manual,13575,769000.0,5,Pune
+Tata PUNCH,Tata,2023,46808,Petrol,Manual,11157,632000.0,3,Pune
+Maruti Wagon R 1.0,Maruti,2011,19837,Petrol,Manual,11157,175000.0,15,Pune
+Hyundai i10,Hyundai,2011,23162,Petrol,Manual,11157,171000.0,15,Pune
+Maruti Wagon R 1.0,Maruti,2018,59108,Petrol,Manual,5931,336000.0,8,Pune
+Honda Amaze,Honda,2019,15513,Petrol,Manual,9021,511000.00000000006,7,Pune
+Ford Ecosport,Ford,2014,99999,Petrol,Auto,10629,320000.0,12,Pune
+Maruti Ritz,Maruti,2011,131904,Petrol,Manual,10629,170000.0,15,Pune
+Maruti IGNIS,Maruti,2021,58543,Petrol,Manual,7697,436000.00000000006,5,Pune
+Hyundai Eon,Hyundai,2014,42940,Petrol,Manual,8038,242000.0,12,Pune
+Hyundai Xcent,Hyundai,2015,78739,Petrol,Manual,7005,266000.0,11,Pune
+Skoda Rapid,Skoda,2012,69893,Petrol,Auto,18392,206999.99999999997,14,Pune
+Toyota Etios,Toyota,2011,171217,Diesel,Manual,18392,231999.99999999997,15,Pune
+Ford Figo,Ford,2011,72176,Petrol,Manual,18392,128000.0,15,Pune
+Hyundai i10,Hyundai,2011,190496,Petrol,Manual,18392,132000.0,15,Pune
+Honda WR-V,Honda,2017,92942,Petrol,Manual,8309,425000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2018,125523,Petrol,Manual,6963,313000.0,8,Pune
+Hyundai Grand i10,Hyundai,2015,55990,Petrol,Manual,8637,328000.0,11,Pune
+Hyundai i10,Hyundai,2015,40770,Petrol,Manual,7900,300000.0,11,Pune
+Renault Duster,Renault,2013,310168,Diesel,Manual,13772,155000.0,13,Pune
+Chevrolet Beat,Chevrolet,2012,107000,Petrol,Manual,14216,160000.0,14,Pune
+Chevrolet Spark,Chevrolet,2011,123,Petrol,Manual,14216,38000.0,15,Pune
+Hyundai i20,Hyundai,2012,30661,Petrol,Manual,20346,229000.0,14,Pune
+Hyundai i10,Hyundai,2011,35576,Petrol,Manual,20346,175000.0,15,Pune
+Honda Amaze,Honda,2016,130649,Diesel,Manual,7900,300000.0,10,Pune
+Tata NEXON,Tata,2018,117750,Petrol,Auto,12546,564000.0,8,Pune
+Tata PUNCH,Tata,2023,16583,Petrol,Manual,10062,570000.0,3,Pune
+Maruti Celerio,Maruti,2016,187606,Petrol,Manual,4449,200000.0,10,Pune
+Mahindra Xylo,Mahindra,2017,99278,Diesel,Manual,6006,270000.0,9,Pune
+Chevrolet Beat,Chevrolet,2013,78777,Petrol,Manual,5555,118000.0,13,Pune
+Hyundai i10,Hyundai,2011,90135,Petrol,Manual,5555,107000.0,15,Pune
+Maruti Dzire,Maruti,2018,75674,Petrol,Manual,7414,420000.0,8,Pune
+Hyundai i10,Hyundai,2011,149220,Petrol,Manual,7414,135000.0,15,Pune
+Hyundai Grand i10,Hyundai,2018,71834,Petrol,Manual,6178,350000.0,8,Pune
+Maruti Ertiga,Maruti,2015,156364,Petrol,Manual,11850,450000.0,11,Pune
+Tata Safari,Tata,2011,352548,Diesel,Manual,11850,184000.0,15,Pune
+Maruti Swift,Maruti,2010,110000,Diesel,Manual,11850,200000.0,16,Pune
+Hyundai Verna,Hyundai,2018,130896,Diesel,Manual,17459,802999.9999999999,8,Pune
+Renault Kwid,Renault,2023,42043,Petrol,Auto,7061,400000.0,3,Pune
+Maruti Swift Dzire,Maruti,2015,93889,Petrol,Auto,8822,335000.0,11,Pune
+Tata Tiago,Tata,2023,14858,Petrol,Manual,10945,620000.0,3,Pune
+Nissan Micra,Nissan,2013,139465,Diesel,Manual,16792,189000.0,13,Pune
+Mahindra XUV700,Mahindra,2022,17522,Petrol,Manual,22465,1312000.0,4,Pune
+Tata PUNCH,Tata,2022,80296,Petrol,Auto,10150,575000.0,4,Pune
+Maruti Swift,Maruti,2023,27388,Petrol,Manual,9974,565000.0,3,Pune
+Maruti Celerio,Maruti,2018,22098,Petrol,Auto,6002,340000.0,8,Pune
+Maruti Baleno,Maruti,2023,20682,Petrol,Auto,12869,729000.0,3,Pune
+Maruti Alto K10,Maruti,2011,32047,Petrol,Manual,12869,150000.0,15,Pune
+Maruti Dzire,Maruti,2018,75160,Petrol,Manual,7061,400000.0,8,Pune
+Hyundai Grand i10,Hyundai,2017,63913,Petrol,Auto,9384,480000.0,9,Pune
+Toyota Etios,Toyota,2013,94575,Petrol,Manual,11815,250999.99999999997,13,Pune
+Maruti Ritz,Maruti,2011,223952,Diesel,Manual,11815,160000.0,15,Pune
+Hyundai i10,Hyundai,2011,42517,Petrol,Manual,11815,138000.0,15,Pune
+Chevrolet Beat,Chevrolet,2010,84965,Petrol,Manual,11815,83000.0,16,Pune
+Maruti Alto,Maruti,2011,75087,Petrol,Manual,11815,121000.0,15,Pune
+Tata Indica Vista,Tata,2014,135488,Diesel,Manual,8614,183000.0,12,Pune
+Maruti SX4,Maruti,2012,80335,Petrol,Manual,12172,137000.0,14,Pune
+Renault TRIBER,Renault,2020,3986,Petrol,Manual,10080,571000.0,6,Pune
+Tata NEXON,Tata,2021,31400,Petrol,Manual,11474,650000.0,5,Pune
+Nissan Sunny,Nissan,2011,17863,Petrol,Manual,11474,161000.0,15,Pune
+Volkswagen Ameo,Volkswagen,2017,105831,Petrol,Manual,8297,373000.0,9,Pune
+Honda Jazz,Honda,2016,60269,Petrol,Manual,8564,385000.0,10,Pune
+Maruti Celerio,Maruti,2016,62925,Petrol,Auto,7630,343000.0,10,Pune
+Maruti Alto 800,Maruti,2018,72778,Petrol,Manual,4872,276000.0,8,Pune
+Maruti New Wagon-R,Maruti,2019,146954,Petrol,Manual,8586,386000.0,7,Pune
+Toyota Etios,Toyota,2013,24371,Petrol,Manual,14122,300000.0,13,Pune
+Maruti Baleno,Maruti,2018,50765,Petrol,Auto,9709,550000.0,8,Pune
+Volkswagen Vento,Volkswagen,2011,162900,Petrol,Manual,9709,180000.0,15,Pune
+Volkswagen Polo,Volkswagen,2013,20261,Petrol,Manual,16240,345000.0,13,Pune
+Hyundai Verna,Hyundai,2013,101874,Petrol,Manual,15911,338000.0,13,Pune
+Hyundai Grand i10,Hyundai,2015,116092,Petrol,Manual,7268,276000.0,11,Pune
+Honda Amaze,Honda,2014,49340,Petrol,Manual,10695,322000.0,12,Pune
+Hyundai Grand i10,Hyundai,2015,36916,Petrol,Manual,9243,351000.0,11,Pune
+Hyundai AURA,Hyundai,2021,54887,Petrol,Manual,9833,557000.0,5,Pune
+Renault Kwid,Renault,2020,53806,Petrol,Manual,4766,270000.0,6,Pune
+Hyundai Xcent,Hyundai,2014,45420,Petrol,Manual,10396,313000.0,12,Pune
+Fiat Grand Punto,Fiat,2010,136291,Diesel,Manual,10396,98000.0,16,Pune
+Maruti Wagon R 1.0,Maruti,2017,93973,Petrol,Manual,5865,300000.0,9,Pune
+Hyundai Elite i20,Hyundai,2018,43349,Petrol,Manual,8720,494000.00000000006,8,Pune
+Hyundai AURA,Hyundai,2020,62780,Petrol,Manual,9321,528000.0,6,Pune
+Honda CRV,Honda,2014,96731,Petrol,Auto,12788,385000.0,12,Pune
+Maruti Dzire,Maruti,2019,144592,Diesel,Manual,12279,552000.0,7,Pune
+Tata Nano,Tata,2012,60381,Petrol,Manual,4442,50000.0,14,Pune
+Maruti Alto,Maruti,2011,119403,Petrol,Manual,4442,132000.0,15,Pune
+Honda City,Honda,2014,154591,Diesel,Manual,20948,445000.0,12,Pune
+Volkswagen Polo,Volkswagen,2019,109470,Petrol,Auto,15972,718000.0,7,Pune
+Hyundai i20,Hyundai,2011,149078,Diesel,Manual,15972,170000.0,15,Pune
+Maruti Ritz,Maruti,2015,127310,Diesel,Manual,9433,284000.0,11,Pune
+Hyundai NEW SANTRO,Hyundai,2022,58560,Petrol,Manual,8120,459999.99999999994,4,Pune
+Hyundai Grand i10,Hyundai,2019,66503,Petrol,Manual,6443,365000.0,7,Pune
+Volkswagen Polo,Volkswagen,2010,143177,Petrol,Manual,6443,165000.0,16,Pune
+Fiat Grand Punto,Fiat,2013,133712,Diesel,Manual,13238,149000.0,13,Pune
+Maruti Alto,Maruti,2011,176630,Petrol,Manual,13238,128000.0,15,Pune
+Honda City,Honda,2018,41578,Petrol,Auto,12728,721000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2018,88309,Petrol,Manual,5931,336000.0,8,Pune
+Tata NEXON,Tata,2024,4572,Petrol,Auto,20975,1225000.0,2,Pune
+Hyundai i20,Hyundai,2013,53464,Petrol,Manual,14922,317000.0,13,Pune
+Tata Indica Vista,Tata,2013,116589,Diesel,Manual,9773,110000.00000000001,13,Pune
+Toyota Etios,Toyota,2011,65219,Petrol,Manual,9773,237000.0,15,Pune
+Maruti Alto K10,Maruti,2012,300033,Petrol,Manual,10395,117000.0,14,Pune
+Hyundai i10,Hyundai,2010,79162,Petrol,Manual,10395,120000.0,16,Pune
+Tata Harrier EV,Tata,2025,5734,Electric,Auto,38628,2256000.0,1,Pune
+Volkswagen Polo,Volkswagen,2011,102222,Petrol,Manual,38628,194000.0,15,Pune
+Hyundai NEW SANTRO,Hyundai,2018,153125,Petrol,Manual,7229,325000.0,8,Pune
+Nissan Micra,Nissan,2011,197411,Diesel,Manual,7229,124000.0,15,Pune
+Hyundai Grand i10,Hyundai,2014,50299,Petrol,Manual,10961,330000.0,12,Pune
+Nissan Sunny,Nissan,2011,265237,Petrol,Manual,10961,122000.0,15,Pune
+Honda City,Honda,2017,126408,Petrol,Auto,13347,600000.0,9,Pune
+Maruti Celerio X,Maruti,2018,54824,Petrol,Auto,5755,326000.0,8,Pune
+Maruti Vitara Brezza,Maruti,2016,134860,Diesel,Manual,15432,586000.0,10,Pune
+Tata Tiago,Tata,2018,26879,Petrol,Manual,6302,357000.0,8,Pune
+Honda Amaze,Honda,2019,58315,Petrol,Manual,8791,498000.00000000006,7,Pune
+Tata ALTROZ,Tata,2023,44370,Petrol,Manual,12357,700000.0,3,Pune
+Maruti Vitara Brezza,Maruti,2017,212647,Diesel,Manual,13347,600000.0,9,Pune
+Tata NEXON,Tata,2024,5430,Petrol,Manual,23629,1380000.0,2,Pune
+Hyundai i10,Hyundai,2011,82303,Petrol,Auto,23629,170000.0,15,Pune
+Nissan Micra,Nissan,2012,125162,Petrol,Manual,11906,134000.0,14,Pune
+Honda Amaze,Honda,2013,58445,Petrol,Manual,14404,306000.0,13,Pune
+Hyundai i10,Hyundai,2011,75146,Petrol,Manual,14404,110000.00000000001,15,Pune
+Tata Indica Vista,Tata,2011,77814,Diesel,Manual,14404,157000.0,15,Pune
+Maruti Ertiga,Maruti,2017,86476,Petrol,Manual,14467,740000.0,9,Pune
+Tata Nano,Tata,2010,86432,Petrol,Manual,14467,45000.0,16,Pune
+Hyundai AURA,Hyundai,2022,32916,Petrol,Manual,10909,618000.0,4,Pune
+Maruti Dzire,Maruti,2025,3627,Petrol,Manual,13487,764000.0,1,Pune
+Tata NEXON,Tata,2021,34680,Diesel,Auto,13698,800000.0,5,Pune
+Volkswagen Polo,Volkswagen,2010,132889,Petrol,Manual,13698,174000.0,16,Pune
+Tata ALTROZ,Tata,2022,43153,Petrol,Manual,10150,575000.0,4,Pune
+Maruti Swift,Maruti,2012,67300,Petrol,Manual,23101,260000.0,14,Pune
+Maruti Baleno,Maruti,2022,68785,Petrol,Manual,10945,620000.0,4,Pune
+Maruti Ritz,Maruti,2014,38032,Petrol,Manual,9798,295000.0,12,Pune
+Maruti Swift Dzire,Maruti,2014,146366,Petrol,Manual,10296,310000.0,12,Pune
+Tata NEXON,Tata,2021,43436,Petrol,Manual,13681,775000.0,5,Pune
+Hyundai AURA,Hyundai,2020,72000,Petrol,Manual,9497,538000.0,6,Pune
+Hyundai Eon,Hyundai,2013,120041,Petrol,Manual,7438,158000.0,13,Pune
+Hyundai AURA,Hyundai,2023,10619,Petrol,Manual,14016,794000.0,3,Pune
+Maruti Celerio,Maruti,2017,94790,Petrol,Manual,5826,298000.0,9,Pune
+Maruti Swift Dzire,Maruti,2012,147440,Diesel,Manual,5826,356000.0,14,Pune
+Ford Figo Aspire,Ford,2016,58558,Petrol,Auto,6295,283000.0,10,Pune
+Honda City,Honda,2013,173052,Petrol,Manual,13369,284000.0,13,Pune
+Honda City,Honda,2016,104843,Petrol,Auto,12457,560000.0,10,Pune
+Hyundai Elite i20,Hyundai,2017,103457,Petrol,Manual,10566,475000.0,9,Pune
+Maruti Swift,Maruti,2011,123068,Petrol,Manual,10566,188000.0,15,Pune
+Hyundai Elite i20,Hyundai,2015,72504,Petrol,Manual,10534,400000.0,11,Pune
+Maruti XL6,Maruti,2019,97326,Petrol,Manual,12692,719000.0,7,Pune
+Honda Jazz,Honda,2015,32559,Petrol,Manual,9217,350000.0,11,Pune
+Maruti Ciaz,Maruti,2015,66458,Petrol,Manual,10534,400000.0,11,Pune
+Volkswagen Polo,Volkswagen,2013,64462,Petrol,Manual,15534,330000.0,13,Pune
+Tata Tiago,Tata,2018,62949,Petrol,Manual,6708,380000.0,8,Pune
+Mahindra XUV500,Mahindra,2012,129794,Diesel,Manual,6708,350000.0,14,Pune
+Hyundai Verna,Hyundai,2013,111546,Diesel,Manual,29498,332000.0,13,Pune
+Volkswagen Vento,Volkswagen,2019,25099,Diesel,Auto,12339,699000.0,7,Pune
+Maruti Baleno,Maruti,2024,41375,Petrol,Manual,13240,750000.0,2,Pune
+Maruti Swift,Maruti,2012,57986,Diesel,Manual,13240,337000.0,14,Pune
+Hyundai AURA,Hyundai,2022,43226,Petrol,Manual,12357,700000.0,4,Pune
+Tata NEXON,Tata,2024,6372,Petrol,Manual,17122,1000000.0,2,Pune
+Maruti Ertiga,Maruti,2015,195927,Diesel,Manual,19929,600000.0,11,Pune
+Maruti Ertiga,Maruti,2017,111525,Petrol,Manual,13725,617000.0,9,Pune
+Tata NEXON,Tata,2021,35007,Petrol,Manual,12145,688000.0,5,Pune
+Honda City,Honda,2019,39705,Petrol,Manual,11262,638000.0,7,Pune
+Hyundai Verna,Hyundai,2011,69961,Petrol,Manual,11262,279000.0,15,Pune
+Hyundai i10,Hyundai,2011,152763,Petrol,Manual,11262,158000.0,15,Pune
+Mahindra XUV500,Mahindra,2012,140905,Diesel,Manual,11262,352000.0,14,Pune
+Tata ALTROZ,Tata,2023,12225,Petrol,Manual,13134,744000.0,3,Pune
+Volkswagen Polo,Volkswagen,2016,112021,Petrol,Auto,10967,493000.0,10,Pune
+Hyundai Xcent,Hyundai,2015,132000,Petrol,Manual,7778,295000.0,11,Pune
+Chevrolet Enjoy,Chevrolet,2013,163532,Diesel,Manual,16582,187000.0,13,Pune
+Hyundai i20,Hyundai,2013,77684,Petrol,Manual,13840,294000.0,13,Pune
+Tata Indica Vista,Tata,2011,78268,Diesel,Manual,13840,130000.0,15,Pune
+Tata ALTROZ,Tata,2021,25484,Petrol,Manual,9780,554000.0,5,Pune
+Hyundai Xcent,Hyundai,2015,60453,Petrol,Manual,9191,349000.0,11,Pune
+Hyundai Elite i20,Hyundai,2017,73809,Petrol,Manual,8289,424000.0,9,Pune
+Maruti Ciaz,Maruti,2016,89808,Petrol,Manual,9287,417000.0,10,Pune
+Honda WR-V,Honda,2018,74076,Petrol,Manual,10044,569000.0,8,Pune
+Maruti Ritz,Maruti,2011,55553,Petrol,Manual,10044,170000.0,15,Pune
+Tata Tiago,Tata,2018,147400,Diesel,Manual,8453,380000.0,8,Pune
+Tata Tiago,Tata,2018,104318,Petrol,Auto,7252,326000.0,8,Pune
+Renault Kiger,Renault,2022,17439,Petrol,Auto,9515,539000.0,4,Pune
+Hyundai i20 Active,Hyundai,2015,39766,Petrol,Manual,9480,360000.0,11,Pune
+Hyundai Elite i20,Hyundai,2016,58489,Petrol,Manual,10099,454000.0,10,Pune
+Maruti Alto,Maruti,2022,55938,Petrol,Manual,6620,375000.0,4,Pune
+Hyundai i20 Active,Hyundai,2016,80030,Petrol,Manual,8475,381000.0,10,Pune
+Maruti Swift,Maruti,2015,43168,Petrol,Manual,9612,365000.0,11,Pune
+Honda City,Honda,2016,83943,Petrol,Auto,8564,385000.0,10,Pune
+Volkswagen Ameo,Volkswagen,2018,93429,Petrol,Manual,6726,381000.0,8,Pune
+Honda Jazz,Honda,2017,48940,Petrol,Auto,9775,500000.0,9,Pune
+Maruti Swift Dzire,Maruti,2011,219376,Petrol,Manual,9775,152000.0,15,Pune
+Ford Figo Aspire,Ford,2021,19154,Petrol,Manual,7944,450000.0,5,Pune
+Ford Fiesta,Ford,2011,63950,Diesel,Manual,7944,260000.0,15,Pune
+Skoda KUSHAQ,Skoda,2023,52157,Petrol,Manual,16592,969000.0,3,Pune
+Honda Amaze,Honda,2015,68008,Petrol,Manual,9217,350000.0,11,Pune
+Hyundai Elite i20,Hyundai,2016,119733,Diesel,Manual,12904,490000.00000000006,10,Pune
+Tata Tiago,Tata,2019,199345,Diesel,Manual,6829,307000.0,7,Pune
+Mahindra XUV700,Mahindra,2022,91371,Petrol,Auto,26899,1571000.0,4,Pune
+Maruti New Wagon-R,Maruti,2022,33460,Petrol,Manual,10044,569000.0,4,Pune
+Tata Hexa,Tata,2017,56394,Diesel,Auto,12991,584000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2017,48080,Petrol,Manual,7116,364000.0,9,Pune
+Tata Indigo ECS,Tata,2015,88277,Diesel,Manual,5580,168000.0,11,Pune
+Mahindra XUV500,Mahindra,2016,106951,Diesel,Auto,18249,693000.0,10,Pune
+Hyundai AURA,Hyundai,2021,121054,Petrol,Manual,11856,533000.0,5,Pune
+Hyundai i10,Hyundai,2011,26065,Petrol,Auto,11856,200000.0,15,Pune
+Ford Figo,Ford,2010,120484,Petrol,Manual,11856,99000.0,16,Pune
+Hyundai i20 Active,Hyundai,2015,78595,Petrol,Manual,10112,384000.0,11,Pune
+Renault TRIBER,Renault,2022,97500,Petrol,Manual,10274,582000.0,4,Pune
+Maruti Swift Dzire,Maruti,2015,124976,Petrol,Manual,8163,310000.0,11,Pune
+Maruti Alto K10,Maruti,2011,106061,Petrol,Manual,8163,122000.0,15,Pune
+Hyundai NEW I20,Hyundai,2022,18745,Petrol,Manual,13646,773000.0,4,Pune
+Hyundai Grand i10,Hyundai,2016,39198,Petrol,Manual,6851,308000.0,10,Pune
+Hyundai Grand i10,Hyundai,2015,45810,Petrol,Manual,8111,308000.0,11,Pune
+Maruti Ciaz,Maruti,2018,136073,Petrol,Auto,12323,554000.0,8,Pune
+Maruti Alto,Maruti,2012,227927,Petrol,Manual,10040,112999.99999999999,14,Pune
+Maruti Baleno,Maruti,2016,30386,Petrol,Auto,9165,412000.0,10,Pune
+Ford Ecosport,Ford,2013,294748,Diesel,Manual,23012,259000.0,13,Pune
+Maruti Swift,Maruti,2021,28308,Petrol,Manual,10645,603000.0,5,Pune
+Honda Amaze,Honda,2016,172062,Petrol,Manual,7719,347000.0,10,Pune
+Tata PUNCH,Tata,2023,3240,Petrol,Manual,12710,720000.0,3,Pune
+Ford Figo Aspire,Ford,2016,68066,Petrol,Manual,6607,297000.0,10,Pune
+Maruti Baleno,Maruti,2020,23907,Petrol,Manual,9462,536000.0,6,Pune
+Maruti Baleno,Maruti,2019,48750,Petrol,Manual,9232,523000.00000000006,7,Pune
+Tata Tiago,Tata,2016,126605,Petrol,Manual,6807,306000.0,10,Pune
+Maruti S Cross,Maruti,2021,34747,Petrol,Manual,11421,647000.0,5,Pune
+Skoda Octavia,Skoda,2015,121444,Petrol,Auto,13457,511000.00000000006,11,Pune
+Maruti Dzire,Maruti,2018,66914,Petrol,Auto,8985,509000.0,8,Pune
+Tata NEXON,Tata,2021,67112,Petrol,Manual,14263,833000.0,5,Pune
+Maruti Swift,Maruti,2022,27719,Petrol,Manual,12110,686000.0,4,Pune
+Renault Fluence,Renault,2011,99999,Diesel,Manual,12110,250000.0,15,Pune
+Maruti Alto K10,Maruti,2016,18204,Petrol,Auto,5917,266000.0,10,Pune
+Tata Tiago,Tata,2018,56200,Petrol,Manual,6178,350000.0,8,Pune
+Maruti Celerio,Maruti,2014,29245,Petrol,Auto,10230,308000.0,12,Pune
+Tata NEXON,Tata,2023,40126,Petrol,Manual,12710,720000.0,3,Pune
+Tata TIAGO EV,Tata,2023,105086,Electric,Auto,18046,830000.0000000001,3,Pune
+Toyota Innova,Toyota,2011,227451,Diesel,Manual,18046,480000.0,15,Pune
+Volkswagen Vento,Volkswagen,2015,128760,Diesel,Auto,11393,343000.0,11,Pune
+Maruti New Wagon-R,Maruti,2021,62804,Petrol,Manual,8420,476999.99999999994,5,Pune
+Toyota Etios Liva,Toyota,2014,31910,Petrol,Manual,11193,337000.0,12,Pune
+Renault Duster,Renault,2014,143174,Diesel,Manual,17088,363000.0,12,Pune
+Tata Indica Vista,Tata,2011,86306,Diesel,Manual,17088,130000.0,15,Pune
+Mahindra XUV500,Mahindra,2017,147850,Diesel,Manual,15838,712000.0,9,Pune
+Ford Ecosport,Ford,2020,147478,Diesel,Manual,14459,650000.0,6,Pune
+Tata Manza,Tata,2011,121416,Diesel,Manual,14459,175000.0,15,Pune
+CITROEN C3,CITROEN,2023,16216,Petrol,Manual,8579,486000.00000000006,3,Pune
+Hyundai Verna,Hyundai,2023,61600,Petrol,Manual,17687,1033000.0,3,Pune
+Maruti Baleno,Maruti,2017,56145,Petrol,Manual,9560,488999.99999999994,9,Pune
+Honda City,Honda,2014,94372,Petrol,Auto,11459,345000.0,12,Pune
+Hyundai NEW SANTRO,Hyundai,2022,47114,Petrol,Manual,8932,505999.99999999994,4,Pune
+Maruti Baleno,Maruti,2016,117665,Petrol,Manual,8675,390000.0,10,Pune
+Hyundai i20,Hyundai,2011,111031,Petrol,Manual,8675,151000.0,15,Pune
+Mahindra XUV500,Mahindra,2017,72155,Diesel,Manual,17462,785000.0,9,Pune
+Hyundai Creta,Hyundai,2016,76249,Petrol,Manual,17039,766000.0,10,Pune
+Honda WR-V,Honda,2017,110339,Petrol,Manual,10611,476999.99999999994,9,Pune
+Tata NEXON,Tata,2022,9750,Petrol,Manual,12922,732000.0,4,Pune
+Maruti Celerio,Maruti,2017,95998,Petrol,Manual,6901,353000.0,9,Pune
+Honda City,Honda,2016,84747,Petrol,Manual,10121,455000.0,10,Pune
+Maruti Ertiga,Maruti,2020,150173,Petrol,Manual,17684,795000.0,6,Pune
+Honda Brio,Honda,2017,113191,Petrol,Manual,7051,317000.0,9,Pune
+Maruti XL6,Maruti,2023,24887,Petrol,Auto,19537,1141000.0,3,Pune
+Maruti Zen Estilo,Maruti,2011,102057,Petrol,Manual,19537,109000.00000000001,15,Pune
+Hyundai Creta,Hyundai,2016,73062,Petrol,Auto,17306,778000.0,10,Pune
+KIA CARENS,KIA,2022,58268,Petrol,Manual,20170,1178000.0,4,Pune
+Tata Tiago,Tata,2021,43037,Petrol,Manual,7944,450000.0,5,Pune
+KIA SELTOS,KIA,2020,33673,Petrol,Manual,13169,746000.0,6,Pune
+Maruti Baleno,Maruti,2023,14298,Petrol,Auto,13028,738000.0,3,Pune
+Hyundai Elite i20,Hyundai,2015,86960,Petrol,Manual,8954,340000.0,11,Pune
+Hyundai Creta,Hyundai,2021,66325,Diesel,Manual,17687,1033000.0,5,Pune
+Ford Ecosport,Ford,2015,80499,Diesel,Manual,11658,351000.0,11,Pune
+Maruti Swift,Maruti,2022,77293,Petrol,Manual,9921,562000.0,4,Pune
+Toyota Etios,Toyota,2015,115214,Diesel,Manual,14481,436000.00000000006,11,Pune
+Tata TIGOR,Tata,2022,31178,Petrol,Manual,11474,650000.0,4,Pune
+Force Motors TRAVELLER,Force,2016,40096,Diesel,Manual,20988,797000.0,10,Pune
+Hyundai ALCAZAR,Hyundai,2022,45868,Petrol,Auto,24588,1436000.0,4,Pune
+Maruti S PRESSO,Maruti,2019,74344,Petrol,Manual,5455,309000.0,7,Pune
+Maruti Alto K10,Maruti,2023,2953,Petrol,Manual,7785,441000.0,3,Pune
+KIA SELTOS,KIA,2020,67117,Petrol,Manual,13698,800000.0,6,Pune
+Hyundai Grand i10,Hyundai,2014,27554,Petrol,Manual,10695,322000.0,12,Pune
+Tata NEXON,Tata,2022,25743,Petrol,Auto,14126,825000.0,4,Pune
+Maruti Baleno,Maruti,2018,50844,Petrol,Manual,7538,426999.99999999994,8,Pune
+Maruti New Wagon-R,Maruti,2019,117221,Petrol,Manual,9632,433000.0,7,Pune
+Hyundai Grand i10,Hyundai,2016,39836,Petrol,Manual,8898,400000.0,10,Pune
+Maruti Celerio,Maruti,2016,130613,Petrol,Manual,7541,339000.0,10,Pune
+Honda Amaze,Honda,2019,59575,Petrol,Manual,9427,534000.0,7,Pune
+Maruti Dzire,Maruti,2018,68418,Petrol,Manual,9144,518000.0,8,Pune
+Mahindra Thar,Mahindra,2017,44684,Diesel,Manual,12702,571000.0,9,Pune
+Maruti New Wagon-R,Maruti,2019,62422,Petrol,Auto,7679,434999.99999999994,7,Pune
+Tata Harrier,Tata,2022,96117,Diesel,Auto,27858,1627000.0,4,Pune
+Landrover Range Rover Evoque,Landrover,2012,112123,Diesel,Auto,27858,1467000.0,14,Pune
+Mahindra Thar,Mahindra,2022,14904,Petrol,Manual,19828,1158000.0,4,Pune
+Fiat Punto EVO,Fiat,2014,26040,Petrol,Manual,8204,247000.00000000003,12,Pune
+Hyundai VENUE,Hyundai,2019,120957,Petrol,Auto,14014,630000.0,7,Pune
+Honda City,Honda,2015,78340,Petrol,Auto,13088,497000.0,11,Pune
+Maruti Celerio,Maruti,2018,46572,Petrol,Manual,7061,400000.0,8,Pune
+Honda Amaze,Honda,2013,128966,Diesel,Manual,22568,254000.0,13,Pune
+Hyundai Creta,Hyundai,2016,77583,Petrol,Auto,14882,669000.0,10,Pune
+MG HECTOR,MG,2020,47731,Petrol,Auto,17636,1030000.0000000001,6,Pune
+Hyundai Verna,Hyundai,2023,37225,Petrol,Manual,17602,1027999.9999999999,3,Pune
+Hyundai Elite i20,Hyundai,2018,50109,Petrol,Auto,8826,500000.0,8,Pune
+Maruti Celerio,Maruti,2018,86196,Petrol,Manual,6549,371000.0,8,Pune
+Hyundai Grand i10,Hyundai,2018,11840,Petrol,Manual,8738,495000.0,8,Pune
+Maruti Ciaz,Maruti,2018,91642,Petrol,Auto,8809,499000.0,8,Pune
+Maruti Ertiga,Maruti,2020,136466,Petrol,Manual,18590,855000.0000000001,6,Pune
+Honda Amaze,Honda,2013,96047,Petrol,Auto,11768,250000.0,13,Pune
+Maruti Eeco,Maruti,2016,94182,Petrol,Manual,6117,275000.0,10,Pune
+BMW 3 Series,BMW,2013,143967,Diesel,Auto,75124,850000.0,13,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2023,2369,Petrol,Manual,12533,710000.0,3,Pune
+Honda Amaze,Honda,2019,74662,Petrol,Auto,10168,576000.0,7,Pune
+Maruti IGNIS,Maruti,2018,29235,Petrol,Auto,7800,442000.0,8,Pune
+Tata NEXON,Tata,2021,44291,Petrol,Auto,13681,775000.0,5,Pune
+Mahindra Scorpio,Mahindra,2015,216057,Diesel,Manual,19929,600000.0,11,Pune
+Skoda Rapid,Skoda,2014,92739,Diesel,Manual,14452,307000.0,12,Pune
+Renault TRIBER,Renault,2020,45818,Petrol,Manual,8498,480999.99999999994,6,Pune
+Hyundai Grand i10,Hyundai,2018,125051,Petrol,Manual,8764,394000.0,8,Pune
+Volkswagen Polo,Volkswagen,2014,111209,Diesel,Manual,14922,317000.0,12,Pune
+Honda City,Honda,2016,83826,Petrol,Manual,10522,473000.00000000006,10,Pune
+Maruti Swift Dzire,Maruti,2014,195865,Diesel,Manual,20006,425000.0,12,Pune
+Honda City,Honda,2015,88530,Petrol,Manual,9533,362000.0,11,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2021,75246,Petrol,Manual,9780,554000.0,5,Pune
+Honda City,Honda,2012,57187,Petrol,Auto,28432,320000.0,14,Pune
+Skoda Rapid,Skoda,2021,103867,Petrol,Auto,17462,785000.0,5,Pune
+Maruti Celerio,Maruti,2018,104241,Petrol,Manual,7652,344000.0,8,Pune
+Skoda SLAVIA,Skoda,2022,43103,Petrol,Auto,21934,1281000.0,4,Pune
+Maruti Celerio X,Maruti,2018,63626,Petrol,Auto,6108,346000.0,8,Pune
+Maruti Celerio,Maruti,2016,84540,Petrol,Manual,6673,300000.0,10,Pune
+Renault Kwid,Renault,2019,73757,Petrol,Auto,4678,265000.0,7,Pune
+Hyundai NEW I20,Hyundai,2021,31835,Petrol,Manual,12745,722000.0,5,Pune
+MG HECTOR,MG,2019,89225,Diesel,Manual,15325,894999.9999999999,7,Pune
+Tata Tiago,Tata,2019,33910,Petrol,Auto,7061,400000.0,7,Pune
+Tata NEXON,Tata,2022,61581,Diesel,Auto,18509,1081000.0,4,Pune
+Honda City,Honda,2013,81150,Petrol,Manual,14028,298000.0,13,Pune
+Maruti S Cross,Maruti,2015,97015,Diesel,Manual,15544,468000.0,11,Pune
+Audi A6,Audi,2012,150547,Diesel,Auto,15544,550000.0,14,Pune
+KIA SELTOS,KIA,2020,117498,Diesel,Manual,19025,875000.0,6,Pune
+Maruti Ciaz,Maruti,2018,120337,Diesel,Manual,11678,525000.0,8,Pune
+Tata Tiago,Tata,2022,9266,Petrol,Auto,9709,550000.0,4,Pune
+Maruti Baleno,Maruti,2018,77880,Petrol,Manual,8209,465000.00000000006,8,Pune
+Maruti Ciaz,Maruti,2016,115048,Diesel,Manual,11712,445000.0,10,Pune
+Tata PUNCH,Tata,2025,32888,Petrol,Manual,14623,853999.9999999999,1,Pune
+Maruti Ciaz,Maruti,2016,85355,Petrol,Manual,8987,404000.0,10,Pune
+Tata ALTROZ,Tata,2022,53509,Diesel,Manual,13081,741000.0,4,Pune
+Volkswagen TAIGUN,Volkswagen,2024,27401,Petrol,Manual,16403,958000.0,2,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2022,21445,Petrol,Auto,12198,691000.0,4,Pune
+Renault Scala,Renault,2012,110328,Diesel,Manual,12198,241000.0,14,Pune
+KIA SELTOS,KIA,2021,44278,Petrol,Manual,16592,969000.0,5,Pune
+Ford Ecosport,Ford,2017,128731,Diesel,Manual,12101,544000.0,9,Pune
+Honda City,Honda,2015,25133,Petrol,Manual,12456,473000.00000000006,11,Pune
+Mahindra Scorpio,Mahindra,2022,65527,Diesel,Manual,22225,1298000.0,4,Pune
+Tata NEXON,Tata,2020,67508,Petrol,Manual,11563,655000.0,6,Pune
+Maruti Swift,Maruti,2014,58144,Diesel,Manual,20383,433000.0,12,Pune
+Tata ALTROZ,Tata,2022,44819,Diesel,Manual,12816,726000.0,4,Pune
+Ford Ecosport,Ford,2020,42214,Petrol,Manual,12622,715000.0,6,Pune
+Hyundai AURA,Hyundai,2023,49247,Petrol,Manual,12692,719000.0,3,Pune
+Skoda Rapid,Skoda,2012,88049,Diesel,Manual,12692,256999.99999999997,14,Pune
+Mahindra XUV700,Mahindra,2022,42442,Petrol,Manual,21934,1281000.0,4,Pune
+Honda Amaze,Honda,2020,43252,Petrol,Manual,11121,630000.0,6,Pune
+Maruti Wagon R 1.0,Maruti,2018,145987,Petrol,Manual,7786,350000.0,8,Pune
+Hyundai Grand i10,Hyundai,2019,18399,Petrol,Manual,8473,480000.0,7,Pune
+Mahindra SCORPIO-N,Mahindra,2024,5169,Petrol,Manual,27053,1580000.0,2,Pune
+Mahindra XUV500,Mahindra,2016,95698,Diesel,Manual,21297,824000.0,10,Pune
+Mahindra XUV700,Mahindra,2024,8626,Diesel,Auto,38080,2224000.0,2,Pune
+Maruti New Wagon-R,Maruti,2023,65514,Petrol,Manual,9709,550000.0,3,Pune
+Maruti Vitara Brezza,Maruti,2020,28503,Petrol,Auto,12269,695000.0,6,Pune
+Hyundai VENUE,Hyundai,2023,57504,Diesel,Manual,16164,944000.0,3,Pune
+Hyundai AURA,Hyundai,2023,27673,Petrol,Manual,13081,741000.0,3,Pune
+Skoda KUSHAQ,Skoda,2023,11625,Petrol,Manual,18715,1093000.0,3,Pune
+Renault Kiger,Renault,2022,17703,Petrol,Auto,10927,619000.0,4,Pune
+Renault Duster,Renault,2015,56508,Diesel,Manual,14614,440000.00000000006,11,Pune
+Maruti XL6,Maruti,2023,110934,Petrol,Manual,20047,922000.0000000001,3,Pune
+Tata ALTROZ,Tata,2023,31782,Petrol,Manual,13857,785000.0,3,Pune
+Tata Tiago,Tata,2019,48749,Petrol,Manual,7944,450000.0,7,Pune
+Honda City,Honda,2022,24662,Petrol,Auto,18509,1081000.0,4,Pune
+Tata Indica Vista,Tata,2011,108494,Diesel,Manual,18509,114999.99999999999,15,Pune
+Mahindra XUV500,Mahindra,2019,62239,Diesel,Manual,16129,942000.0,7,Pune
+Mitsubishi Pajero Sport,Mitsubishi,2016,161091,Diesel,Auto,14879,565000.0,10,Pune
+Hyundai NEW SANTRO,Hyundai,2019,67332,Petrol,Manual,7114,403000.0,7,Pune
+Mercedes Benz B Class,Mercedes,2012,40093,Petrol,Auto,45668,513999.99999999994,14,Pune
+BMW X1,BMW,2012,107200,Diesel,Auto,45668,459999.99999999994,14,Pune
+Maruti Ertiga,Maruti,2020,85991,Petrol,Manual,15650,914000.0,6,Pune
+KIA SONET,KIA,2021,65110,Diesel,Manual,16266,950000.0,5,Pune
+Mahindra XUV 3XO,Mahindra,2024,34274,Diesel,Auto,23115,1350000.0,2,Pune
+Mahindra XUV700,Mahindra,2022,50114,Petrol,Manual,22396,1308000.0,4,Pune
+Tata ALTROZ,Tata,2024,38203,Petrol,Manual,13575,769000.0,2,Pune
+Landrover Freelander 2,Landrover,2013,122307,Diesel,Auto,78483,888000.0000000001,13,Pune
+Honda City,Honda,2014,187584,Diesel,Manual,22219,472000.0,12,Pune
+Honda City,Honda,2018,75873,Petrol,Auto,12710,720000.0,8,Pune
+Honda WR-V,Honda,2017,80545,Diesel,Manual,15460,695000.0,9,Pune
+Honda Civic,Honda,2011,100266,Petrol,Manual,15460,328000.0,15,Pune
+Maruti Ertiga,Maruti,2017,153410,Petrol,Manual,17506,787000.0,9,Pune
+Ford Ecosport,Ford,2017,43144,Petrol,Manual,9756,499000.0,9,Pune
+Tata ALTROZ,Tata,2025,26864,Petrol,Manual,14554,850000.0,1,Pune
+Ford Ecosport,Ford,2014,134988,Diesel,Manual,16711,355000.0,12,Pune
+Maruti New Wagon-R,Maruti,2021,68163,Petrol,Manual,8738,495000.0,5,Pune
+Maruti Ciaz,Maruti,2014,33199,Petrol,Auto,13751,413999.99999999994,12,Pune
+Hyundai Grand i10,Hyundai,2019,27009,Petrol,Manual,8332,472000.0,7,Pune
+Honda City,Honda,2014,110164,Petrol,Auto,14946,450000.0,12,Pune
+Maruti New Wagon-R,Maruti,2021,103393,Petrol,Manual,10010,450000.0,5,Pune
+Maruti Vitara Brezza,Maruti,2017,121061,Diesel,Manual,11144,501000.0,9,Pune
+Hyundai Creta,Hyundai,2015,163870,Diesel,Manual,26073,785000.0,11,Pune
+Maruti Celerio,Maruti,2022,52382,Petrol,Manual,8773,497000.0,4,Pune
+Tata Harrier,Tata,2024,16223,Diesel,Auto,38971,2276000.0,2,Pune
+KIA SONET,KIA,2022,22656,Diesel,Manual,15205,888000.0000000001,4,Pune
+Hyundai Grand i10,Hyundai,2018,40060,Petrol,Manual,7167,405999.99999999994,8,Pune
+Toyota Glanza,Toyota,2019,33916,Petrol,Manual,10556,598000.0,7,Pune
+KIA SELTOS,KIA,2022,28675,Petrol,Auto,21146,1235000.0,4,Pune
+KIA SONET,KIA,2024,17886,Petrol,Manual,14503,847000.0000000001,2,Pune
+Tata ALTROZ,Tata,2023,27513,Petrol,Manual,12886,730000.0,3,Pune
+Maruti XL6,Maruti,2024,51474,Petrol,Manual,19537,1141000.0,2,Pune
+Maruti Ertiga,Maruti,2023,64922,Petrol,Manual,17979,1050000.0,3,Pune
+BMW 1 Series,BMW,2013,79962,Diesel,Auto,53309,600000.0,13,Pune
+Ford Ecosport,Ford,2015,78250,Diesel,Manual,14880,448000.00000000006,11,Pune
+Maruti BREZZA,Maruti,2023,43870,Petrol,Manual,13972,816000.0,3,Pune
+Hyundai Creta,Hyundai,2018,96797,Petrol,Auto,14914,871000.0000000001,8,Pune
+Maruti Baleno,Maruti,2023,28047,Petrol,Auto,13963,791000.0,3,Pune
+Honda Amaze,Honda,2019,13618,Petrol,Auto,10380,588000.0,7,Pune
+Mahindra Scorpio,Mahindra,2012,137828,Diesel,Manual,10380,348000.0,14,Pune
+Maruti S Cross,Maruti,2020,126086,Petrol,Manual,12568,565000.0,6,Pune
+Maruti Swift,Maruti,2012,114975,Diesel,Manual,12568,344000.0,14,Pune
+Hyundai Xcent,Hyundai,2016,107850,Petrol,Manual,7452,335000.0,10,Pune
+Hyundai VENUE,Hyundai,2024,12260,Petrol,Manual,14468,844999.9999999999,2,Pune
+Maruti Ciaz,Maruti,2016,65831,Petrol,Manual,9832,442000.0,10,Pune
+Audi A4,Audi,2013,89451,Diesel,Auto,65037,732000.0,13,Pune
+Maruti S PRESSO,Maruti,2023,886,Petrol,Manual,7944,450000.0,3,Pune
+Maruti Celerio,Maruti,2021,142029,Petrol,Manual,10989,494000.00000000006,5,Pune
+Tata Tiago,Tata,2024,35708,Petrol,Manual,9356,530000.0,2,Pune
+Tata Tiago,Tata,2025,393,Petrol,Manual,9991,566000.0,1,Pune
+Mahindra XUV500,Mahindra,2013,100819,Diesel,Manual,31097,350000.0,13,Pune
+Hyundai VENUE,Hyundai,2021,27523,Petrol,Manual,12428,704000.0,5,Pune
+Ford Ecosport,Ford,2017,99999,Petrol,Manual,9658,494000.00000000006,9,Pune
+Maruti Ertiga,Maruti,2015,94127,Diesel,Manual,22586,680000.0,11,Pune
+Mahindra XUV700,Mahindra,2021,80192,Diesel,Auto,30067,1755999.9999999998,5,Pune
+Maruti Ertiga,Maruti,2013,97973,Petrol,Manual,18359,390000.0,13,Pune
+Hyundai VENUE,Hyundai,2021,75869,Petrol,Manual,13698,800000.0,5,Pune
+Mahindra XUV500,Mahindra,2019,66921,Diesel,Auto,16078,939000.0,7,Pune
+Hyundai Creta,Hyundai,2021,23422,Diesel,Manual,20598,1203000.0,5,Pune
+Maruti Vitara Brezza,Maruti,2021,84864,Petrol,Manual,13063,740000.0,5,Pune
+Maruti IGNIS,Maruti,2017,16098,Petrol,Auto,8798,450000.0,9,Pune
+Tata PUNCH,Tata,2025,386,Petrol,Manual,13835,808000.0,1,Pune
+Hyundai Verna,Hyundai,2023,64386,Petrol,Manual,20667,1207000.0,3,Pune
+Hyundai Creta,Hyundai,2016,110180,Petrol,Manual,14793,665000.0,10,Pune
+KIA SELTOS,KIA,2019,195106,Diesel,Auto,21199,975000.0,7,Pune
+Toyota Corolla Altis,Toyota,2019,23525,Petrol,Auto,18287,1068000.0,7,Pune
+Honda Amaze,Honda,2022,49927,Petrol,Auto,13240,750000.0,4,Pune
+Maruti New Wagon-R,Maruti,2023,25284,Petrol,Auto,11262,638000.0,3,Pune
+Hyundai Creta,Hyundai,2018,90272,Diesel,Manual,15437,811000.0,8,Pune
+Hyundai VENUE,Hyundai,2022,25004,Petrol,Manual,13010,737000.0,4,Pune
+Maruti Ertiga,Maruti,2023,66082,Petrol,Manual,17088,998000.0,3,Pune
+Hyundai Santro Xing,Hyundai,2010,75700,Petrol,Manual,17088,342000.0,16,Pune
+Tata ALTROZ,Tata,2023,68473,Petrol,Manual,12851,728000.0,3,Pune
+KIA SONET,KIA,2022,28170,Diesel,Manual,17705,1034000.0,4,Pune
+Maruti Dzire,Maruti,2019,87982,Diesel,Auto,10597,600000.0,7,Pune
+Mahindra Thar,Mahindra,2023,5930,Diesel,Manual,19520,1140000.0,3,Pune
+Skoda SLAVIA,Skoda,2024,16985,Petrol,Auto,22739,1328000.0,2,Pune
+Volkswagen TAIGUN,Volkswagen,2023,67439,Petrol,Auto,22105,1291000.0,3,Pune
+Hyundai VENUE,Hyundai,2024,6869,Petrol,Manual,17191,1003999.9999999999,2,Pune
+MG HECTOR PLUS,MG,2024,41124,Diesel,Manual,33303,1945000.0,2,Pune
+KIA SONET,KIA,2020,37071,Petrol,Manual,12357,700000.0,6,Pune
+Toyota Innova,Toyota,2014,92814,Diesel,Manual,39617,850000.0,12,Pune
+Renault Duster,Renault,2021,30909,Petrol,Auto,14811,865000.0,5,Pune
+Maruti New Wagon-R,Maruti,2020,95069,Petrol,Manual,7926,449000.0,6,Pune
+MG HECTOR,MG,2021,85293,Diesel,Manual,21335,1246000.0,5,Pune
+KIA SELTOS,KIA,2021,81889,Diesel,Manual,16266,950000.0,5,Pune
+Skoda Rapid,Skoda,2015,183128,Diesel,Auto,12954,390000.0,11,Pune
+Maruti FRONX,Maruti,2025,7198,Petrol,Auto,16009,935000.0,1,Pune
+Skoda Superb,Skoda,2015,112118,Petrol,Auto,15458,587000.0,11,Pune
+Maruti S PRESSO,Maruti,2021,73043,Petrol,Manual,6249,354000.0,5,Pune
+BMW X3,BMW,2013,153806,Diesel,Auto,68325,769000.0,13,Pune
+Maruti New Wagon-R,Maruti,2020,72355,Petrol,Manual,7732,438000.0,6,Pune
+Tata Tiago,Tata,2019,52696,Petrol,Manual,7344,416000.0,7,Pune
+Maruti Baleno,Maruti,2024,10787,Petrol,Auto,14040,819999.9999999999,2,Pune
+BMW 5 Series,BMW,2012,90754,Diesel,Auto,14040,800000.0,14,Pune
+Tata Aria,Tata,2011,84245,Diesel,Manual,14040,361000.0,15,Pune
+Tata NEXON EV,Tata,2022,77446,Electric,Auto,12516,709000.0,4,Pune
+Honda WR-V,Honda,2022,87266,Diesel,Manual,14537,849000.0,4,Pune
+KIA SONET,KIA,2023,12743,Diesel,Manual,15924,930000.0000000001,3,Pune
+Toyota Corolla Altis,Toyota,2011,86403,Diesel,Manual,15924,354000.0,15,Pune
+Toyota Corolla Altis,Toyota,2011,89472,Petrol,Auto,15924,397000.0,15,Pune
+Honda Mobilio,Honda,2014,154880,Petrol,Manual,11625,350000.0,12,Pune
+Hyundai EXTER,Hyundai,2024,8999,Petrol,Auto,13875,786000.0,2,Pune
+Honda City,Honda,2022,26694,Petrol,Auto,16403,958000.0,4,Pune
+Skoda Octavia,Skoda,2015,141996,Diesel,Auto,21855,658000.0,11,Pune
+Maruti Celerio,Maruti,2020,80975,Petrol,Manual,7238,409999.99999999994,6,Pune
+Mahindra XUV300,Mahindra,2023,70469,Diesel,Manual,15410,900000.0,3,Pune
+Hyundai Creta,Hyundai,2018,65852,Petrol,Auto,16078,939000.0,8,Pune
+Jeep Compass,Jeep,2018,60445,Petrol,Auto,14623,853999.9999999999,8,Pune
+Chevrolet Captiva,Chevrolet,2011,99696,Diesel,Auto,14623,570000.0,15,Pune
+Mahindra Scorpio,Mahindra,2014,123346,Diesel,Manual,24243,515000.00000000006,12,Pune
+BMW X1,BMW,2014,85258,Diesel,Auto,36435,774000.0,12,Pune
+Tata Curvv,Tata,2024,29419,Petrol,Auto,24810,1449000.0,2,Pune
+KIA SONET,KIA,2020,25336,Petrol,Manual,14109,824000.0,6,Pune
+Mahindra Thar,Mahindra,2023,60767,Diesel,Auto,25170,1470000.0,3,Pune
+Mahindra XUV700,Mahindra,2025,10190,Petrol,Auto,40186,2347000.0,1,Pune
+Renault Duster,Renault,2018,132893,Diesel,Manual,12190,548000.0,8,Pune
+Maruti Ertiga,Maruti,2023,34319,Petrol,Manual,17550,1025000.0,3,Pune
+Hyundai VENUE,Hyundai,2023,17415,Petrol,Manual,14554,850000.0,3,Pune
+Jeep Compass,Jeep,2019,103535,Diesel,Manual,21742,1000000.0,7,Pune
+Hyundai Creta,Hyundai,2023,18387,Petrol,Manual,22311,1303000.0,3,Pune
+Toyota Corolla Altis,Toyota,2012,216647,Diesel,Manual,22311,386000.0,14,Pune
+KIA SONET,KIA,2024,1440,Petrol,Manual,16027,936000.0,2,Pune
+Renault Duster,Renault,2016,128049,Diesel,Auto,13167,500000.0,10,Pune
+Maruti Ciaz,Maruti,2015,114356,Diesel,Manual,13983,421000.0,11,Pune
+Hyundai Creta,Hyundai,2021,92245,Diesel,Manual,21985,1284000.0,5,Pune
+Hyundai AURA,Hyundai,2024,9394,Petrol,Manual,13240,750000.0,2,Pune
+BMW 3 Series,BMW,2010,46589,Diesel,Auto,13240,850000.0,16,Pune
+Hyundai EXTER,Hyundai,2024,20926,Petrol,Manual,13646,773000.0,2,Pune
+Renault Duster,Renault,2017,91774,Petrol,Auto,10264,525000.0,9,Pune
+Skoda Octavia,Skoda,2014,116747,Diesel,Auto,27538,585000.0,12,Pune
+Hyundai Creta,Hyundai,2018,126019,Diesel,Manual,19372,891000.0,8,Pune
+Maruti Ertiga,Maruti,2023,26381,Petrol,Manual,19211,1122000.0,3,Pune
+Toyota Fortuner,Toyota,2016,88473,Diesel,Manual,37941,1468000.0,10,Pune
+KIA SONET,KIA,2021,50758,Petrol,Auto,17979,1050000.0,5,Pune
+KIA SELTOS,KIA,2023,20664,Diesel,Auto,30666,1791000.0,3,Pune
+Mahindra Scorpio,Mahindra,2014,131293,Diesel,Manual,22125,470000.0,12,Pune
+Hyundai NEW I20 N LINE,Hyundai,2023,25000,Petrol,Auto,15753,919999.9999999999,3,Pune
+KIA SELTOS,KIA,2021,35097,Petrol,Auto,21403,1250000.0,5,Pune
+Maruti Ciaz,Maruti,2022,20506,Petrol,Auto,14825,866000.0,4,Pune
+MG HECTOR,MG,2019,19533,Petrol,Auto,21198,1238000.0,7,Pune
+Maruti XL6,Maruti,2024,16075,Petrol,Manual,19708,1151000.0,2,Pune
+Skoda Superb,Skoda,2012,112561,Petrol,Auto,49844,561000.0,14,Pune
+Mahindra XUV300,Mahindra,2023,78824,Diesel,Auto,15410,900000.0,3,Pune
+Maruti Celerio,Maruti,2023,15629,Petrol,Manual,9709,550000.0,3,Pune
+Hyundai Creta,Hyundai,2023,20439,Petrol,Auto,23971,1400000.0,3,Pune
+Tata Safari,Tata,2022,91870,Diesel,Auto,27396,1600000.0,4,Pune
+Toyota Fortuner,Toyota,2015,173127,Diesel,Auto,44197,1350000.0,11,Pune
+Mahindra XUV300,Mahindra,2023,37219,Diesel,Manual,17979,1050000.0,3,Pune
+Ford Ecosport,Ford,2020,101035,Petrol,Auto,15326,689000.0,6,Pune
+Toyota Innova,Toyota,2013,233461,Diesel,Manual,48956,551000.0,13,Pune
+Hyundai VENUE,Hyundai,2023,16518,Petrol,Auto,19520,1140000.0,3,Pune
+Renault Koleos,Renault,2011,178203,Diesel,Auto,19520,624000.0,15,Pune
+Volkswagen Passat,Volkswagen,2011,141194,Diesel,Auto,19520,748000.0,15,Pune
+Mahindra Thar,Mahindra,2023,26941,Diesel,Manual,23629,1380000.0,3,Pune
+Toyota Corolla Altis,Toyota,2013,139094,Diesel,Manual,37405,421000.0,13,Pune
+Maruti Eeco,Maruti,2019,77458,Petrol,Manual,8738,495000.0,7,Pune
+Renault Duster,Renault,2016,102785,Diesel,Manual,11087,421000.0,10,Pune
+Hyundai AURA,Hyundai,2024,40215,Petrol,Manual,13946,790000.0,2,Pune
+Tata Harrier,Tata,2021,87102,Diesel,Manual,19691,1150000.0,5,Pune
+Hyundai EXTER,Hyundai,2024,10341,Petrol,Manual,14143,826000.0,2,Pune
+KIA SELTOS,KIA,2020,75906,Petrol,Manual,16592,969000.0,6,Pune
+Maruti Dzire,Maruti,2021,40269,Petrol,Manual,10662,604000.0,5,Pune
+Toyota Corolla Altis,Toyota,2011,157894,Diesel,Manual,10662,348000.0,15,Pune
+Maruti New Wagon-R,Maruti,2021,167033,Petrol,Manual,8898,400000.0,5,Pune
+Tata TIAGO EV,Tata,2024,1483,Electric,Auto,11582,656000.0,2,Pune
+Maruti Grand Vitara,Maruti,2023,26044,Petrol,Auto,24571,1435000.0,3,Pune
+BMW 5 Series,BMW,2012,71849,Diesel,Auto,24571,1134000.0,14,Pune
+Tata TIAGO EV,Tata,2023,24979,Electric,Auto,11209,635000.0,3,Pune
+Audi A6,Audi,2012,95782,Diesel,Auto,11209,745000.0,14,Pune
+Jeep Compass,Jeep,2022,43931,Diesel,Auto,42686,2493000.0,4,Pune
+KIA SELTOS,KIA,2023,40065,Diesel,Auto,29964,1750000.0,3,Pune
+Ford Endeavour,Ford,2013,127352,Diesel,Auto,61128,688000.0,13,Pune
+BMW 5 Series,BMW,2011,176851,Diesel,Auto,61128,860000.0,15,Pune
+Mercedes Benz Ml Class,Mercedes,2011,117867,Diesel,Auto,61128,933000.0,15,Pune
+Mahindra XUV300,Mahindra,2021,20229,Petrol,Manual,14811,865000.0,5,Pune
+Mahindra Scorpio,Mahindra,2013,145176,Diesel,Manual,42559,479000.0,13,Pune
+Tata NEXON,Tata,2017,173781,Diesel,Manual,12234,550000.0,9,Pune
+CITROEN E C3,CITROEN,2023,56812,Electric,Auto,15068,880000.0000000001,3,Pune
+Jeep Compass,Jeep,2022,73688,Diesel,Auto,41094,2400000.0,4,Pune
+Mercedes Benz C Class,Mercedes,2011,92268,Diesel,Auto,41094,783000.0,15,Pune
+Renault Koleos,Renault,2011,151904,Diesel,Auto,41094,350000.0,15,Pune
+MG HECTOR,MG,2024,12510,Diesel,Manual,31163,1820000.0,2,Pune
+Tata TIAGO NRG,Tata,2024,31105,Petrol,Auto,11191,634000.0,2,Pune
+Tata Safari,Tata,2022,48829,Diesel,Auto,28235,1648999.9999999998,4,Pune
+MG HECTOR,MG,2020,21014,Petrol,Auto,18492,1080000.0,6,Pune
+Mercedes Benz E Class,Mercedes,2013,103208,Diesel,Auto,84846,960000.0,13,Pune
+Tata PUNCH EV,Tata,2025,3227,Electric,Auto,24417,1426000.0,1,Pune
+Maruti Eeco,Maruti,2022,51545,Petrol,Manual,10221,579000.0,4,Pune
+Tata PUNCH EV,Tata,2024,22232,Electric,Auto,18835,1100000.0,2,Pune
+Tata TIAGO EV,Tata,2023,28236,Electric,Auto,14503,847000.0000000001,3,Pune
+Maruti Eeco,Maruti,2022,145416,Petrol,Manual,13369,601000.0,4,Pune
+Tata NEXON EV,Tata,2023,20883,Electric,Auto,17979,1050000.0,3,Pune
+Jeep Compass,Jeep,2020,180243,Diesel,Manual,23134,1064000.0,6,Pune
+Hyundai Santa Fe,Hyundai,2013,80585,Diesel,Manual,52065,586000.0,13,Pune
+Tata NEXON EV,Tata,2022,51828,Electric,Auto,18835,1100000.0,4,Pune
+Maruti Eeco,Maruti,2021,70844,Petrol,Manual,9921,562000.0,5,Pune
+Hyundai ALCAZAR,Hyundai,2023,23527,Diesel,Manual,26386,1541000.0,3,Pune
+Maruti Ertiga,Maruti,2023,59879,Petrol,Manual,17979,1050000.0,3,Pune
+Tata TIAGO EV,Tata,2023,58254,Electric,Auto,13275,752000.0,3,Pune
+Tata NEXON EV,Tata,2021,37129,Electric,Auto,13869,810000.0,5,Pune
+CITROEN C5 AIRCROSS,CITROEN,2021,63692,Diesel,Auto,40169,2346000.0,5,Pune
+Tata NEXON EV,Tata,2022,80833,Electric,Auto,20119,1175000.0,4,Pune
+KIA SELTOS,KIA,2020,66522,Diesel,Auto,24108,1408000.0,6,Pune
+Mahindra XUV400,Mahindra,2024,31331,Electric,Auto,24365,1423000.0,2,Pune
+Mahindra SCORPIO-N,Mahindra,2022,79365,Diesel,Auto,31711,1852000.0,4,Pune
+Toyota Fortuner,Toyota,2014,210915,Diesel,Auto,64925,1393000.0,12,Pune
+Skoda Kodiaq,Skoda,2019,90963,Diesel,Auto,42806,2500000.0,7,Pune
+Maruti Celerio,Maruti,2023,5773,Petrol,Manual,10239,580000.0,3,Pune
+Maruti Swift,Maruti,2018,134932,Petrol,Manual,9721,437000.0,8,Pune
+Maruti Zen Estilo,Maruti,2012,44804,Petrol,Manual,14660,165000.0,14,Pune
+Datsun Go,Datsun,2016,86509,Petrol,Manual,2914,131000.0,10,Pune
+Maruti XL6,Maruti,2019,143829,Petrol,Auto,16617,747000.0,7,Pune
+Hyundai VENUE,Hyundai,2020,131790,Petrol,Manual,15638,703000.0,6,Pune
+Toyota Etios,Toyota,2011,87480,Petrol,Manual,15638,190000.0,15,Pune
+Maruti Dzire,Maruti,2017,53571,Petrol,Auto,9443,483000.0,9,Pune
+Skoda SLAVIA,Skoda,2022,47064,Petrol,Auto,18783,1097000.0,4,Pune
+Honda Amaze,Honda,2023,39483,Petrol,Manual,10998,623000.0,3,Pune
+Hyundai AURA,Hyundai,2024,13286,Petrol,Manual,13910,788000.0,2,Pune
+Hyundai Grand i10,Hyundai,2013,164113,Diesel,Manual,20524,231000.0,13,Pune
+Tata Tiago,Tata,2022,40056,Petrol,Manual,8067,457000.0,4,Pune
+Maruti Vitara Brezza,Maruti,2016,51876,Diesel,Manual,16511,627000.0,10,Pune
+Maruti Dzire,Maruti,2022,45937,Petrol,Manual,8879,503000.0,4,Pune
+Maruti Swift Dzire,Maruti,2016,76228,Petrol,Manual,6651,299000.0,10,Pune
+MG HECTOR,MG,2021,17568,Petrol,Auto,22259,1300000.0,5,Pune
+Maruti Swift,Maruti,2015,58770,Petrol,Manual,8434,320000.0,11,Pune
+Volkswagen Polo,Volkswagen,2016,77068,Petrol,Manual,8030,361000.0,10,Pune
+Toyota Innova Crysta,Toyota,2024,28782,Diesel,Manual,41094,2400000.0,2,Pune
+Mahindra XUV300,Mahindra,2019,62636,Petrol,Manual,11274,639000.0,7,Pune
+Toyota YARIS,Toyota,2021,39201,Petrol,Manual,10433,591000.0,5,Pune
+Hyundai NEW I20,Hyundai,2022,11438,Petrol,Auto,13411,760000.0,4,Pune
+Tata NEXON,Tata,2020,71627,Petrol,Manual,9949,564000.0,6,Pune
+KIA CARENS,KIA,2023,35362,Petrol,Manual,16831,983000.0,3,Pune
+Hyundai Eon,Hyundai,2013,93032,Petrol,Manual,6436,137000.0,13,Pune
+Honda Amaze,Honda,2019,88412,Diesel,Manual,8314,471000.0,7,Pune
+Maruti Ritz,Maruti,2013,79160,Petrol,Manual,8050,171000.0,13,Pune
+Hyundai Eon,Hyundai,2018,68625,Petrol,Manual,3848,218000.00000000003,8,Pune
+Hyundai Verna,Hyundai,2013,31253,Diesel,Manual,33318,375000.0,13,Pune
+Renault Kwid,Renault,2018,47888,Petrol,Auto,4095,231999.99999999997,8,Pune
+Tata Tiago,Tata,2022,24686,CNG,Manual,7714,437000.0,4,Pune
+Maruti New Wagon-R,Maruti,2019,50972,CNG,Manual,7820,400000.0,7,Pune
+Toyota Etios,Toyota,2014,78066,Petrol,Manual,8382,252000.0,12,Pune
+Volkswagen VIRTUS,Volkswagen,2022,11979,Petrol,Auto,19708,1151000.0,4,Pune
+Maruti Celerio,Maruti,2017,98088,CNG,Auto,8616,327000.0,9,Pune
+Hyundai Creta,Hyundai,2016,114301,CNG,Manual,18965,571000.0,10,Pune
+Hyundai GRAND I10 NIOS,Hyundai,2022,136340,CNG,Manual,10328,463999.99999999994,4,Pune
+Maruti Baleno,Maruti,2018,55742,Petrol,Manual,7679,434999.99999999994,8,Pune
+Honda Amaze,Honda,2014,51495,Petrol,Manual,9847,296000.0,12,Pune
+Hyundai NEW I20,Hyundai,2021,34039,Petrol,Auto,12004,680000.0,5,Pune
+Honda City,Honda,2014,117962,Petrol,Manual,9674,291000.0,12,Pune
+Tata Tiago,Tata,2018,41941,Petrol,Auto,5313,301000.0,8,Pune
+Maruti Swift Dzire,Maruti,2014,45890,Petrol,Manual,9433,284000.0,12,Pune
+Datsun Redi Go,Datsun,2018,28250,Petrol,Auto,3478,197000.0,8,Pune
+Ford Ecosport,Ford,2019,38098,Petrol,Manual,9532,540000.0,7,Pune
+Volkswagen Polo,Volkswagen,2018,46386,Petrol,Manual,8363,474000.0,8,Pune
+Maruti Wagon R 1.0,Maruti,2016,47363,CNG,Manual,8569,258000.0,10,Pune
+Renault Kwid,Renault,2021,50989,CNG,Manual,5468,310000.0,5,Pune
+Hyundai AURA,Hyundai,2020,41247,Petrol,Auto,8355,473000.00000000006,6,Pune
+Maruti S PRESSO,Maruti,2022,32645,Petrol,Auto,6408,363000.0,4,Pune
+Renault Kwid,Renault,2018,24667,Petrol,Auto,4731,268000.0,8,Pune
+Volkswagen Vento,Volkswagen,2016,86836,Diesel,Auto,12640,480000.0,10,Pune
+Maruti Celerio,Maruti,2017,69934,CNG,Manual,8506,323000.0,9,Pune
+Hyundai New Elantra,Hyundai,2013,34857,Petrol,Manual,16363,348000.0,13,Pune
+Mahindra XUV500,Mahindra,2018,99702,Diesel,Auto,14956,765000.0,8,Pune
+Hyundai Grand i10,Hyundai,2018,54740,Petrol,Manual,6743,382000.0,8,Pune
+Maruti Celerio,Maruti,2015,88205,Petrol,Auto,6030,229000.0,11,Pune
+Maruti Alto 800,Maruti,2018,69702,CNG,Manual,5828,262000.0,8,Pune
+Honda Amaze,Honda,2020,85968,Petrol,Manual,7588,430000.0,6,Pune
+Maruti Wagon R 1.0,Maruti,2013,91826,Petrol,Manual,8276,176000.0,13,Pune
+Tata ALTROZ,Tata,2023,18984,Petrol,Manual,11100,629000.0,3,Pune
+Ford Ecosport,Ford,2016,64212,Petrol,Auto,9832,442000.0,10,Pune
+Hyundai Eon,Hyundai,2014,32964,Petrol,Manual,5314,160000.0,12,Pune
+Hyundai i10,Hyundai,2013,96687,CNG,Manual,5314,189000.0,13,Pune
+Maruti Baleno,Maruti,2017,29055,Petrol,Auto,9048,463000.0,9,Pune
+Honda BR-V,Honda,2016,48465,Petrol,Auto,10355,466000.0,10,Pune
+Honda Jazz,Honda,2016,69887,Petrol,Manual,7732,348000.0,10,Pune
+Renault Duster,Renault,2021,33610,Petrol,Manual,10812,613000.0,5,Pune
+Tata Harrier,Tata,2020,64403,Diesel,Auto,21997,1285000.0,6,Pune
+Hyundai i10,Hyundai,2014,72480,CNG,Manual,21501,242000.0,12,Pune
+Maruti Ertiga,Maruti,2013,75087,Petrol,Manual,18359,390000.0,13,Pune
+Maruti Baleno,Maruti,2021,49890,Petrol,Auto,10140,574000.0,5,Pune
+Mahindra XUV500,Mahindra,2015,114318,Diesel,Manual,18999,572000.0,11,Pune
+Tata TIGOR,Tata,2023,19770,CNG,Manual,10921,619000.0,3,Pune
+Hyundai i20,Hyundai,2013,93402,Petrol,Manual,10215,217000.0,13,Pune
+Hyundai Grand i10,Hyundai,2017,28009,Petrol,Manual,7879,403000.0,9,Pune
+Maruti Wagon R 1.0,Maruti,2014,51625,Petrol,Manual,7440,224000.00000000003,12,Pune
+KIA SONET,KIA,2022,17963,Petrol,Manual,13240,750000.0,4,Pune
+Toyota YARIS,Toyota,2018,55033,Petrol,Auto,10617,601000.0,8,Pune
+Tata Tiago,Tata,2020,29521,Petrol,Auto,8542,484000.0,6,Pune
+Hyundai Elite i20,Hyundai,2018,37545,Petrol,Manual,9356,530000.0,8,Pune
+Hyundai Grand i10,Hyundai,2016,83375,Petrol,Manual,6851,308000.0,10,Pune
+Fiat Linea,Fiat,2016,22223,Petrol,Manual,7260,326000.0,10,Pune
+Honda City,Honda,2015,63934,Petrol,Auto,13146,499000.0,11,Pune
+Tata Tiago,Tata,2024,3289,Petrol,Auto,11389,645000.0,2,Pune
